@@ -1,0 +1,182 @@
+[
+  {
+    "id": "roblox",
+    "name": "Roblox",
+    "cover": "https://d150u0abw3r906.cloudfront.net/wp-content/uploads/2023/01/image4-1024x576.png",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Roblox_%282025%29_%28App_Icon%29.svg",
+    "synopsis": "Roblox es una plataforma de juegos en línea y un sistema de creación donde los usuarios pueden jugar millones de juegos (llamados \"experiencias\") creados por otros jugadores, así como diseñar y publicar sus propios mundos virtuales. No es un juego con una trama única, sino un entorno digital masivo con contenido generado por los usuarios.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "no_im_not_a_human",
+    "name": "No I'm Not a Human",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3180070/fadebc14211b17b5a6603926612ead9294cad9ce/header.jpg?t=1761654689",
+    "icon": "../images/No I'm not human.jpg",
+    "synopsis": " ATENCIÓN. No salgas. Echa el cerrojo. Cierra las persianas. Solo humanos adentro. Acaba con todos los Visitantes. Un horror angustioso sobre la paranoia del fin de los tiempos. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "hollow_knight",
+    "name": "Hollow Knight",
+    "cover": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_download_software_5/H2x1_WiiUDS_HollowKnight_image1600w.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/602d1305678a8d5fdb372271e980da6a/32/256x256.png",
+    "synopsis": " ¡Forja tu propio camino en Hollow Knight! Una aventura épica a través de un vasto reino de insectos y héroes que se encuentra en ruinas. Explora cavernas tortuosas, combate contra criaturas corrompidas y entabla amistad con extraños insectos, todo en un estilo clásico en 2D dibujado a mano. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "moshi_monsters",
+    "name": "Moshi Monsters",
+    "cover": "../images/moshi_monsters.jpg",
+    "icon": "../images/moshi monsters icon.jpg",
+    "synopsis": "Moshi Monsters fue un mundo virtual masivo en línea (MMORPG) de origen británico, desarrollado por la empresa Mind Candy y lanzado en 2008. Dirigido a un público infantil (de 6 a 12 años), el juego permitía a los usuarios adoptar, cuidar y personalizar a sus propios monstruos mascota en un entorno seguro y creativo.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "kingdom_classic",
+    "name": "Kingdom: Classic",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368230/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/e9a0c55e4af7d8c0bc3f2821aa30a64b/32/1024x1024.png",
+    "synopsis": "Kingdom es un híbrido de estrategia y gestión de recursos en 2D de desplazamiento lateral, con un aire minimalista envuelto en una hermosa y moderna estética pixel art",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "kingdom_new_lands",
+    "name": "Kingdom: New Lands",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/496300/header.jpg",
+    "icon": "../images/kingdom_new_lands.png",
+    "synopsis": " Kingdom: Las nuevas tierras toman como base el laureado estilo de juego y el misterio de Kingdom al incluir abundante contenido nuevo, a la vez que se mantiene la simplicidad y profundidad que las legiones de monarcas han experimentado y disfrutado. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "kingdom_two_crowns",
+    "name": "Kingdom: Two Crowns",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/701160/header.jpg?t=1760624201",
+    "icon": "https://external-preview.redd.it/mMreYJKcfs0c84GGvgtyG2TN2pMszjd4UrwUgqIt3rU.jpg?auto=webp&s=62bddd17b5982ba1ae3645c05135a4f277789d2f",
+    "synopsis": "Recoge monedas, construye defensas y recupera tu reino caído. Explora y descubre secretos, desbloquea nuevas tecnologías y protege tu corona frente a las oleadas de monstruosos ávidos. Kingdom es un juego de estrategia y defensa de torres cooperativo ambientado en un hermoso mundo pixelado.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "spore",
+    "name": "Spore",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/17390/header.jpg",
+    "icon": "../images/spore.jpg",
+    "synopsis": "Sé el arquitecto de tu propio universo con Spore, una emocionante aventura para un solo jugador. De Célula Única a Dios Galáctico, evoluciona a tu criatura en un universo de tus propias creaciones.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "tomodachi_life",
+    "name": "Tomodachi Life",
+    "cover": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_3ds_25/SI_3DS_TomodachiLife_image1600w.jpg",
+    "icon": "../images/tomodachi_life.jpg",
+    "synopsis": "Tomodachi Life es un simulador de vida espontáneo y cómico donde el jugador disfruta siendo testigo del desarrollo impredecible y a menudo hilarante de una \"telenovela\" virtual protagonizada por las personas que conoce.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "prince_of_persia",
+    "name": "Prince of Persia",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/19980/header.jpg",
+    "icon": "https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-26/256/Prince-of-Persia-2008-1-icon.png",
+    "synopsis": "La aclamada franquicia de Prince Of Persia regresa por primera vez para las consolas de nueva generación y nos trae un viaje épico y completamente nuevo.Emerge un nuevo héroe – domina las acrobacias, la estrategia y las tácticas de combate del más ágil guerrero de todos los tiempos.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "slime_rancher_2",
+    "name": "Slime Rancher 2",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1657630/964d66b03d8695cdcb0c719a67448a99e3c85c82/header_alt_assets_5.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/dd2123d4ed992ad5710750cfbae4414b/32/256x256.png",
+    "synopsis": "Continúa las aventuras de Beatrix LeBeau mientras viaja a través del Mar de Slime hasta la Isla Arcoíris, una tierra repleta de misterios ancestrales y rebosante de nuevos slimes saltarines que domar, en esta secuela del gran éxito, Slime Rancher.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "my_singing_monsters",
+    "name": "My Singing Monsters",
+    "cover": "../images/my_singing_monsters.png",
+    "icon": "https://www.bigbluebubble.com/wp-content/uploads/2018/07/MSMIcon-Android.png",
+    "synopsis": "¡Cría y alimenta a cientos de monstruos musicales peculiares con sus propios sonidos únicos para formar una orquesta peluda y plumífera en este galardonado juego! ¡Luego coloca a tus monstruos en islas bellamente decoradas y totalmente personalizables para crear melodías pegadizas que cantarás enseguida!",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "kings_quest_7",
+    "name": "King's Quest VII",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/d/d5/King%27s_Quest_VII_-_The_Princeless_Bride_Coverart.jpg",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/d/d5/King%27s_Quest_VII_-_The_Princeless_Bride_Coverart.jpg",
+    "synopsis": "juego random que juega raquel un viernes cualquiera",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "lol",
+    "name": "Leage of Legends",
+    "cover": "https://alfabetajuega.com/hero/2020/11/Guia-completa-de-League-of-Legends-trucos-y-secretos.jpg",
+    "icon": "https://static.wikia.nocookie.net/animatorvsanimation/images/2/2a/LoL_icon.svg",
+    "synopsis": "League of Legends es un videojuego multijugador de arena de batalla en línea desarrollado y publicado por Riot Games. Inspirándose en Defense of the Ancients, un mapa personalizado para Warcraft III, los fundadores de Riot Games buscaron desarrollar un juego independiente del mismo género.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "the_binding_of_isaac",
+    "name": "The Binding of Isaac",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/113200/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/bc573864331a9e42e4511de6f678aa83/4/128x128.png",
+    "synopsis": " Cuando la madre de Isaac empieza a escuchar la voz de Dios exigiéndole un sacrificio para demostrar su fe, Isaac huye hacia el sótano para enfrentarse a montones de desquiciados enemigos, hermanos y hermanas perdidos, sus miedos y, finalmente, a su madre. The Binding of Isaac es un shooter de rol y acción generado aleatoriamente con fuertes elementos de roguelike. Mientras siguen a Isaac en su viaje, los jugadores encontrarán extraños tesoros que cambiarán la forma de Isaac dotándole de habilidades sobrehumanas que le permitirán enfrentarse a hordas de misteriosas criaturas, descubrir secretos y abrirse paso luchando hasta un lugar seguro.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "fortnite",
+    "name": "Fortnite",
+    "cover": "../images/fortnite.png",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Fortnite_F_lettermark_logo.png",
+    "synopsis": "Goku, Superman, Homer Simpson, Deadpool e incluso tu madre pegándose de tiros",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pvz_replanted",
+    "name": "Plants vs Zombies Replanted",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3654560/2a3015b525e5d4da6d2c1a517d0a8c1504b1eee8/header.jpg",
+    "icon": "../images/replanted.jpg",
+    "synopsis": "¡El clásico Plants vs. Zombies regresa en glorioso HD! La batalla original entre plantas y zombis ha vuelto. ¡Más grande, más brillante y más alocada que nunca! Disfruta del juego que lo empezó todo, ahora remasterizado con exclusivos gráficos en HD y repleto de nuevos secretos que desvelar.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "loop_hero",
+    "name": "Loop Hero",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1282730/header.jpg",
+    "icon": "https://upload.wikimedia.org/wikipedia/fr/b/b3/Logo_Loop_Hero.png",
+    "synopsis": " El Lich ha lanzado el mundo entero a un bucle intemporal y ha sumido a sus habitantes en un caos sin fin. Utiliza una baraja creciente de cartas místicas para situar enemigos, edificios y terrenos en cada bucle de expedición único para el valiente héroe. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "opus_magnum",
+    "name": "Opus Magnum",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/558990/header.jpg",
+    "icon": "https://cdn.gracza.pl/galeria/gry13/333509607.jpg",
+    "synopsis": " El Lich ha lanzado el mundo entero a un bucle intemporal y ha sumido a sus habitantes en un caos sin fin. Utiliza una baraja creciente de cartas místicas para situar enemigos, edificios y terrenos en cada bucle de expedición único para el valiente héroe. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "left_4_dead_2",
+    "name": "Leaft 4 Dead 2",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/550/header.jpg",
+    "icon": "../images/l4d2.png",
+    "synopsis": "Ambientado en el apocalipsis zombi, Left 4 Dead 2 (L4D2) es la esperadísima secuela del galardonado Left 4 Dead, el juego cooperativo número 1 de 2008. Este FPS cooperativo de acción y terror os llevará a ti y a tus amigos por las ciudades, pantanos y cementerios del Sur Profundo, desde Savannah hasta Nueva Orleans, a lo largo de cinco... ",
+    "tags": [],
+    "images": []
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "id": "award-001",
+    "name": "Best Visuals",
+    "description": "Awarded to the game with the most striking visual design.",
+    "nominees": ["game-001", "game-002"]
+  }
+]

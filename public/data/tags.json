@@ -1,0 +1,14 @@
+[
+  {
+    "id": "tag-001",
+    "name": "Arcade"
+  },
+  {
+    "id": "tag-002",
+    "name": "Adventure"
+  },
+  {
+    "id": "tag-003",
+    "name": "Cyberpunk"
+  }
+]

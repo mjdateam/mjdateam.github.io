@@ -1,0 +1,12 @@
+/* App shell layout tweaks for modern UI */
+.content {
+  margin-top: 1rem;
+}
+
+main { padding: 0.25rem 0; }
+
+/* small layout helpers */
+.muted { color: var(--muted); }
+
+/* simple visual containers for pages */
+section { margin-bottom: 1.6rem; }

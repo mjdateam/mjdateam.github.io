@@ -1,0 +1,48 @@
+h1 { margin: 0; font-size: 1.6rem; }
+.muted { color: var(--muted); }
+
+/* Use a single-column list for consistent width */
+.games-grid {
+	display: flex;
+	flex-direction: column;
+	gap: 1.5rem;
+	margin-top: 1rem;
+	align-items: stretch; /* ensures children stretch to full width */
+	min-width: 60vw; /* minimum width of the games container relative to viewport */
+}
+.game-wrapper {
+	width: 100%;
+	min-width: 0; /* avoid children forcing container width */
+}
+
+/* Make sure the card itself uses full width */
+.game-card { width: 100%; box-sizing: border-box; }
+.game-card { min-width: 0; }
+
+.games-controls { display:flex; justify-content:flex-end; margin-top: 0.75rem; }
+.view-toggle { display:flex; gap:0.5rem; }
+.toggle { background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.02); color: var(--muted); padding: 0.4rem 0.6rem; border-radius: 8px; cursor:pointer; }
+.toggle.active { color: var(--text); background: linear-gradient(90deg, rgba(58,160,255,0.06), rgba(100,108,255,0.02)); border-color: rgba(58,160,255,0.08); }
+
+/* Grid view */
+.games-grid.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 1.5rem; margin-top: 1rem; align-items: start; grid-auto-rows: 1fr; min-width: 60vw; }
+.games-grid.grid .game-wrapper { width: auto; display:flex; justify-content:stretch; align-items: flex-start; }
+.games-grid.grid .game-wrapper .game-tile { max-width: none; width: 100%; }
+
+/* Increase min column width on larger screens so tiles scale nicely while still allowing more columns */
+/* Rely primarily on auto-fit+minmax to adapt column count to available width. 
+	 Use breakpoints for a slightly larger minimum on wider screens for visual balance. */
+@media (min-width: 700px) {
+	.games-grid.grid { grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); }
+}
+@media (min-width: 900px) {
+	.games-grid.grid { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+}
+@media (min-width: 1200px) {
+	.games-grid.grid { grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+}
+
+/* Make sure very narrow viewport doesn't produce an unwanted horizontal scroll: fallback to 100% width */
+@media (max-width: 520px) {
+    .games-grid, .games-grid.grid { min-width: 100vw; }
+}

@@ -1,0 +1,8 @@
+.awards-list { display: grid; gap: 1rem; margin-top: 1rem; }
+.award-card { background: rgba(255,255,255,0.02); padding: 1rem; border-radius: 10px; border: 1px solid rgba(255,255,255,0.03); }
+.award-card h2 { margin: 0 0 0.4rem 0; }
+.muted { color: var(--muted); }
+.nominees { display:flex; gap: 0.6rem; margin-top: 0.6rem; flex-wrap: wrap; }
+.nominee { padding: 0.35rem 0.6rem; background: rgba(255,255,255,0.02); border-radius: 8px; color: var(--muted); }
+.nominee a { color: inherit; text-decoration: none; }
+.nominee a:hover { color: var(--primary); }

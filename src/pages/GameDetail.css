@@ -1,0 +1,24 @@
+.detail-hero {
+  border-radius: 12px;
+  overflow: hidden;
+}
+.detail-cover {
+  height: 320px;
+  background-size: cover;
+  background-position: center;
+  display:flex;
+  align-items: end;
+  padding: 1.25rem;
+  position: relative;
+}
+.detail-cover h1 { margin: 0; color: var(--text); font-size: 2rem; text-shadow: 0 1px 3px rgba(0,0,0,0.5); }
+.detail-cover .detail-icon { width: 56px; height: 56px; border-radius: 8px; margin-right: 1rem; }
+.detail-body { margin-top: 1rem; }
+.synopsis { color: var(--muted); margin-bottom: 0.8rem; }
+.tags-row { margin-bottom: 0.9rem; display:flex; gap:0.5rem; flex-wrap:wrap; }
+.tag { padding: 0.35rem 0.6rem; border-radius: 999px; background: rgba(255,255,255,0.02); color: var(--muted); }
+.detail-gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px,1fr)); gap: 1rem; margin-top: 1rem; }
+.gallery-item { height: 180px; background-size: cover; background-position: center; border-radius: 10px; border: 1px solid rgba(255,255,255,0.03); }
+.awards-section { margin-top: 1rem; }
+.awards-list { display:flex; gap: 0.6rem; flex-wrap: wrap; margin-top: 0.6rem; }
+.award { padding: 0.45rem 0.8rem; background: rgba(255,255,255,0.02); border-radius: 8px; color: var(--muted); }
