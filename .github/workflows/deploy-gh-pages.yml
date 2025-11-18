@@ -30,8 +30,10 @@ jobs:
         run: npm ci
 
       - name: Build
-        # Build a Vite app. Use --base to ensure assets are served correctly from a repo under /<repo>/ if using non-user site.
-        run: npm run build -- --base /${{ github.event.repository.name }}/
+        run: npx tsc -b && npx vite build --base /
+
+      - name: Copy index.html to 404.html for SPA routing
+        run: cp dist/index.html dist/404.html
 
       - name: Configure Pages
         uses: actions/configure-pages@v3
