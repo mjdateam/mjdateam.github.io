@@ -8,13 +8,13 @@ import HomeCarousel from '../components/HomeCarousel'
 // Home page doesn't fetch content; it only shows action buttons.
 
 interface Game { id: string; name: string; cover?: string; synopsis?: string }
-interface Award { id: string; name?: string; title?: string; description?: string; nominees?: string[] }
+interface Award { id: string; name?: string; title?: string; description?: string; nominees?: string[]; cover?: string; icon?: string; trophy?: string }
 
 export default function Home() {
   const [games, setGames] = useState<Game[]>([])
   const [loading, setLoading] = useState(true)
   const [awards, setAwards] = useState<Award[]>([])
-  const [carouselItems, setCarouselItems] = useState<{ type: 'game'|'award'; id: string; title: string; cover?: string; synopsis?: string }[]>([])
+  const [carouselItems, setCarouselItems] = useState<{ type: 'game'; id: string; title: string; cover?: string; synopsis?: string; icon?: string; trophy?: string; nominations?: { id: string; name?: string; icon?: string; trophy?: string }[] }[]>([])
 
   useEffect(() => {
     fetch('/data/games.json')
@@ -30,15 +30,19 @@ export default function Home() {
 
   useEffect(() => {
     // Build carousel items when games or awards change and shuffle once
-    const items: { type: 'game'|'award'; id: string; title: string; cover?: string; synopsis?: string }[] = []
-    for (let i = 0; i < Math.min(12, games.length); i++) {
-      const g = games[i]
-      items.push({ type: 'game', id: g.id, title: g.name, cover: g.cover, synopsis: g.synopsis })
+    const items: { type: 'game'; id: string; title: string; cover?: string; synopsis?: string; icon?: string; trophy?: string; nominations?: { id: string; name?: string; icon?: string; trophy?: string }[] }[] = []
+    // Only include games that are nominated in at least one award
+    const nominatedGameIds = new Set<string>()
+    for (const a of awards) {
+      for (const n of (a.nominees || [])) nominatedGameIds.add(n)
     }
-    for (let i = 0; i < Math.min(8, awards.length); i++) {
-      const a = awards[i]
-      items.push({ type: 'award', id: a.id || `award-${i}`, title: a.name || a.id, synopsis: a.description || (a.nominees || []).slice(0,3).join(', ') })
+    const nominatedGames = games.filter((g) => nominatedGameIds.has(g.id))
+    for (let i = 0; i < Math.min(12, nominatedGames.length); i++) {
+      const g = nominatedGames[i]
+      const nominations = awards.filter(a => (a.nominees || []).includes(g.id)).map(a => ({ id: a.id || '', name: a.name, icon: a.icon, trophy: a.trophy }))
+      items.push({ type: 'game', id: g.id, title: g.name, cover: g.cover, synopsis: g.synopsis, nominations })
     }
+    // Do not include awards in the carousel; only games that are nominated are shown.
     // fisher-yates shuffle
     for (let i = items.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1))

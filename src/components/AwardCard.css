@@ -1,0 +1,26 @@
+.award-card-link { display:block; text-decoration:none; color:inherit; }
+.award-card { display:grid; grid-template-columns: 180px 1fr; gap: 1rem; border-radius:14px; padding:0.85rem; background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01)); border: 1px solid rgba(255,255,255,0.03); box-shadow: 0 6px 24px rgba(2,8,20,0.45); }
+.award-card-left { position:relative; }
+.award-card-right { min-width: 0; }
+.award-card-right h3 { margin: 0; font-size: 1.2rem; }
+.award-card-right h3 { text-shadow: 0 2px 6px rgba(0,0,0,0.55); }
+.award-cover { width: 100%; max-width: 180px; aspect-ratio: 4 / 3; background-size: cover; background-position:center; border-radius: 8px; }
+.award-icon { position:absolute; left:8px; bottom:8px; width:44px; height:44px; border-radius:8px; background-size:cover; background-position:center; border: 1px solid rgba(255,255,255,0.02); }
+.award-trophy { position:absolute; right:8px; top:8px; width:44px; height:44px; background-size:contain; background-repeat:no-repeat; background-position:center; opacity:0.95; }
+.award-card-right h3 { margin:0; }
+.nominees { display:flex; gap:0.6rem; margin-top:0.5rem; flex-wrap:wrap; }
+.nominee { padding: 0.35rem 0.6rem; background: rgba(255,255,255,0.02); border-radius:8px; color:var(--muted); }
+
+/* Responsive: mirror GameCard layout for list view */
+@media (max-width: 760px) {
+	.award-card { grid-template-columns: 1fr; padding: 0.75rem; }
+	.award-cover { max-width: none; width: 100%; }
+}
+@media (min-width: 900px) {
+	.award-card { grid-template-columns: 220px 1fr; }
+	.award-cover { max-width: 220px; }
+}
+@media (min-width: 1200px) {
+	.award-card { grid-template-columns: 280px 1fr; padding: 1rem; }
+	.award-cover { max-width: 280px; }
+}

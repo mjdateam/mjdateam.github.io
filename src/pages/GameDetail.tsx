@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import './GameDetail.css'
+import AwardTile from '../components/AwardTile'
 import { resolveImageSrc } from '../utils/images'
 
 interface Game {
@@ -14,7 +15,7 @@ interface Game {
 }
 
 interface Tag { id: string; name: string }
-interface Award { id: string; name: string; description?: string; nominees: string[] }
+interface Award { id: string; name: string; description?: string; nominees: string[]; cover?: string; icon?: string; trophy?: string }
 
 export default function GameDetail() {
   const { id } = useParams()
@@ -32,14 +33,16 @@ export default function GameDetail() {
 
   const gameTags = (game.tags || []).map(t => tags.find(tag => tag.id === t)?.name || t)
   const nominatedAwards = awards.filter(a => a.nominees.includes(game.id))
-  const coverSrc = resolveImageSrc(game.cover)
+  const coverSrc = resolveImageSrc(game.cover || game.icon)
 
   return (
     <main className="game-detail">
       <div className="detail-hero">
         <div className="detail-cover" style={coverSrc ? { backgroundImage: `url(${coverSrc})`} : undefined}>
-          {game.icon ? <img src={resolveImageSrc(game.icon)} alt={`${game.name} icon`} className="detail-icon" /> : null}
-          <h1>{game.name}</h1>
+          <div className="detail-title-box">
+            {game.icon ? <img src={resolveImageSrc(game.icon)} alt={`Icono de ${game.name}`} className="detail-icon" /> : null}
+            <h1>{game.name}</h1>
+          </div>
         </div>
       </div>
 
@@ -59,11 +62,17 @@ export default function GameDetail() {
 
         <section className="awards-section">
           <h2>Premios en los que está nominado</h2>
-          <div className="awards-list">
-            {nominatedAwards.length ? nominatedAwards.map(a => (
-              <div key={a.id} className="award">{a.name}</div>
-            )) : <p className="muted">No está nominado en ninguna categoría.</p>}
-          </div>
+          {nominatedAwards.length ? (
+            <div className="games-grid grid">
+              {nominatedAwards.map((a) => (
+                <div key={a.id} className="game-wrapper">
+                  <AwardTile id={a.id} name={a.name} cover={a.cover} icon={a.icon} trophy={a.trophy} />
+                </div>
+              ))}
+            </div>
+          ) : (
+            <p className="muted">No está nominado en ninguna categoría.</p>
+          )}
         </section>
       </div>
     </main>

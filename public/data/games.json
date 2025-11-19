@@ -83,9 +83,9 @@
   {
     "id": "prince_of_persia",
     "name": "Prince of Persia",
-    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/19980/header.jpg",
-    "icon": "https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-26/256/Prince-of-Persia-2008-1-icon.png",
-    "synopsis": "La aclamada franquicia de Prince Of Persia regresa por primera vez para las consolas de nueva generación y nos trae un viaje épico y completamente nuevo.Emerge un nuevo héroe – domina las acrobacias, la estrategia y las tácticas de combate del más ágil guerrero de todos los tiempos.",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Prince_of_Persia_1_-_Macintosh_-_Starting_screen.png",
+    "icon": "https://assets-prd.ignimgs.com/2022/01/05/prince-of-persia-classic-button-edit-1641370411797.jpg",
+    "synopsis": "",
     "tags": [],
     "images": []
   },
@@ -119,7 +119,7 @@
   {
     "id": "lol",
     "name": "Leage of Legends",
-    "cover": "https://alfabetajuega.com/hero/2020/11/Guia-completa-de-League-of-Legends-trucos-y-secretos.jpg",
+    "cover": "https://cdn2.unrealengine.com/a-beginner-s-guide-to-league-of-legends-teemo-1215x717-dc27844d5953.jpg",
     "icon": "https://static.wikia.nocookie.net/animatorvsanimation/images/2/2a/LoL_icon.svg",
     "synopsis": "League of Legends es un videojuego multijugador de arena de batalla en línea desarrollado y publicado por Riot Games. Inspirándose en Defense of the Ancients, un mapa personalizado para Warcraft III, los fundadores de Riot Games buscaron desarrollar un juego independiente del mismo género.",
     "tags": [],
@@ -241,9 +241,749 @@
     "synopsis": "La familia Simpson descubre que son personajes de un videojuego y, al obtener la guía, adquieren superpoderes. Homer, Marge, Bart y Lisa deben usarlos para salvar a Springfield de una amenaza inminente. El juego es una aventura de acción y plataformas llena de parodias a la cultura pop y al mundo de los videojuegos.",
     "tags": [],
     "images": []
+  },
+  {
+    "id": "hollow_knight_silksong",
+    "name": "Hollow Knight Silksong",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/f0e95622d20a747e93f5403e5193b155/32/256x256.png",
+    "synopsis": " SMASH SESBIAN LEX  ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "prince_of_persia_lost_crown",
+    "name": "Prince of Persia The Lost Crown",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2751000/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/09ffb3b847e337d77d5e84d4ef08e2c6.png",
+    "synopsis": "Embárcate en una nueva aventura épica en Prince of Persia The Lost Crown. Explora vastos paisajes, resuelve intrincados acertijos y enfréntate a enemigos formidables mientras buscas la legendaria Corona Perdida. Con un sistema de combate mejorado y una narrativa envolvente, prepárate para vivir una experiencia inolvidable en el mundo de Prince of Persia.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "prince_of_persia_rogue",
+    "name": "The Rogue Prince Of Persia",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2717880/60249410daa51cc5e6cac5b32cafb369c44937e5/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/9984afcda87bbb6790b0f12f22b2f482/32/256x256.png",
+    "synopsis": "The Rogue Prince Of Persia es un juego de acción y aventura que sigue las peripecias de un príncipe rebelde en su lucha contra un tirano opresor. Con habilidades acrobáticas y un arsenal de armas, el príncipe debe navegar por peligrosos paisajes, resolver acertijos y enfrentarse a enemigos formidables para restaurar la justicia en su reino.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "stellar_blade",
+    "name": "Stellar Blade",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/0d3e39daa6f8414f6118900ec9860602.png",
+    "synopsis": "Stellar Blade es un juego de acción y aventura ambientado en un futuro distópico donde la humanidad lucha por sobrevivir contra una amenaza alienígena. Los jugadores asumen el papel de una guerrera equipada con tecnología avanzada y habilidades especiales, explorando vastos entornos, enfrentándose a enemigos formidables y desentrañando los secretos de un universo en crisis.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "nine_sols",
+    "name": "Nine Sols",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1809540/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/569fc4df8df46dd5a0a20356d4a4cf9d/32/512x512.png",
+    "synopsis": "Nine Sols es un juego de acción y aventura ambientado en un mundo místico inspirado en la mitología asiática. Los jugadores controlan a un guerrero legendario que debe enfrentarse a poderosos enemigos y superar desafíos épicos para restaurar el equilibrio en un reino sumido en el caos. Con combates fluidos, habilidades únicas y una narrativa envolvente, Nine Sols ofrece una experiencia inolvidable para los amantes de los juegos de acción.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "paper_mario_origami_king",
+    "name": "Paper Mario The Origami King",
+    "cover": "https://assets.nintendo.eu/image/upload/f_auto,q_auto,w_767/v1616771869/MNS/Content%20Pages%20Assets/Category-List%20Pages/Franchises/SuperMario/16.9_Switch_PaperMarioTheOrigamiKing_Logo_enNOE.png",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/1e133156163737d12d15232b87874339.png",
+    "synopsis": "Paper Mario The Origami King es un juego de rol y aventura protagonizado por Mario en un mundo hecho de papel y origami. Los jugadores deben embarcarse en una misión para salvar el Reino Champiñón de las garras del Rey Olly, quien ha convertido a los habitantes en figuras de origami. Con un sistema de combate único basado en anillos y una narrativa encantadora, Paper Mario The Origami King ofrece una experiencia divertida y creativa para los fans de la serie.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "neon_white",
+    "name": "Neon White",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1533420/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/9fe2132cbfda2218e4928f320f53ce8e/32/256x256.png",
+    "synopsis": "Neon White es un juego de acción y plataformas en primera persona que combina elementos de velocidad, combate y resolución de acertijos. Los jugadores asumen el papel de White, un asesino celestial que debe competir en desafíos mortales para ganar su lugar en el cielo. Con un estilo visual vibrante y una banda sonora energética, Neon White ofrece una experiencia única y emocionante para los amantes de los juegos rápidos y desafiantes.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "sonic_frontiers",
+    "name": "Sonic Frontiers",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1237320/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/4f74b9baaea72a5b8a5a7ae70745bb48.png",
+    "synopsis": " Sonico el prisas rapido, esta en un mundo random intentando salvar a los notas de sus inutiles llamados amigos de las manos del hombre huevos ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "tunic",
+    "name": "Tunic",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553420/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/b856243e684b903de6085dc70830792a/32/256x256.png",
+    "synopsis": " Explora un reino plagado de leyendas olvidadas, poderes ancestrales y feroces monstruos en TUNIC, un juego de acción isométrico sobre un pequeño zorro que emprende una gran aventura. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "hades",
+    "name": "Hades",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/851300ee84c2b80ed40f51ed26d866fc/32/256x256.png",
+    "synopsis": "Desafía al dios de los muertos y protagoniza una salvaje fuga del Inframundo en este juego de exploración de mazmorras de los creadores de Bastion, Transistor y Pyre.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "hades_2",
+    "name": "Hades II",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/91ac334a2c137d08968ccc0bc474a02579602100/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/3d3e9b54c139bb780189f8c1b4f3a1e8.png",
+    "synopsis": " Usa las artes oscuras para abrirte paso más allá del inframundo y enfréntate al Titán del Tiempo en esta cautivadora continuación del galardonado juego de mazmorras de tipo rogue-like. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "uncharted_the_shift_legacy_collection",
+    "name": "Uncharted: The Shift Legacy Collection",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1659420/header_spanish.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/6e82873a32b95af115de1c414a1849cb/32/256x256.png",
+    "synopsis": " Juega como Nathan Drake y Chloe Frazer en sus aventuras independientes, en las que deberán confrontar sus pasados y forjar sus propios legados. Incluye las historias de las dos versiones del juego, UNCHARTED 4: El final de un ladrón y Uncharted: El legado perdido. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "megabonk",
+    "name": "Megabonk",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3405340/d06cb39a82a703e42541085fc61b42d80904b3f8/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/b9663aa14442cfbc0e7cc6315818970b/32/256x256.png",
+    "synopsis": " ¡Arrasa con oleadas infinitas de enemigos y vuélvete absurdamente poderoso! Agarra loot, sube de nivel, desbloquea personajes y haz upgrades para crear builds únicas y locas mientras te enfrentas a hordas de criaturas. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "vampire_survivors",
+    "name": "Vampire Survivors",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1794680/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/c7ea80155da6839ccc5a6ec630e7578c/32/256x256.png",
+    "synopsis": "¡Aniquila a miles de criaturas de la noche y sobrevive hasta el amanecer! Vampire Survivors es un juego casual de terror gótico con elementos «roguelite» donde tus decisiones te permitirán aumentar tu poder exponencialmente mientras luchas contra cientos de monstruos.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "void_stranger",
+    "name": "Void Stranger",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2121980/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/2118fa0c24a3bee8842cc54a73775d9a.png",
+    "synopsis": " Eres una tia con testas y muchas tetas y grandes tetas con super tetas ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "dispatch",
+    "name": "Dispatch",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2592160/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/48e0ebce5727b744f207aae35ed8c768.png",
+    "synopsis": "Dispatch es una comedia de oficina sobre superhéroes donde las decisiones importan. Gestiona un equipo de héroes inadaptados y decide quién enviar a las emergencias por la ciudad todo mientras equilibras la política de oficina, las relaciones personales y tu propia misión de convertirte en un héroe.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "clover_pit",
+    "name": "Clover Pit",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3314790/7c06cca026d4904d8850e7cf9695d4ea1a3ee65d/header_alt_assets_0.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/06bcf57e94063461b780a6e414862801.png",
+    "synopsis": "Un juego «rogue-lite» con máquinas tragaperras de pesadilla. Apuesta tu vida en un simulador de deuda interminable.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "risk_of_rain_2",
+    "name": "Risk of Rain 2",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg?t=1763490165",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/a16db462526a3ef934fef9a2d6d25899.png",
+    "synopsis": " Lucha contra hordas de monstruos enloquecidos junto a tus amigos o en solitario para lograr escapar de un planeta alienígena sumido en el caos. Combina el botín de maneras asombrosas y domina cada personaje hasta encarnar la destrucción que tanto te aterraba tras tu primer aterrizaje forzoso. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "wuthering_waves",
+    "name": "Wuthering Waves",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3513350/7ec18f44e089bf340391c6470218ddf3fea2007d/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/9d435d2e017f7a7384f4e1c6a6f2d169.png",
+    "synopsis": "Wuthering Waves es un juego de rol de mundo abierto lleno de historias y que permite un alto grado de libertad de juego. Despiertas como Errante, acompañado de un elenco vibrante de Resonadores, en un viaje para recuperar tus recuerdos perdidos, explorar y transformar el mundo.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "honkai_star_rail",
+    "name": "Honkai Star Rail",
+    "cover": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-67j5t.jpg",
+    "icon": "https://fastcdn.hoyoverse.com/mi18n/resource-trans/upload/event/2021/09/30/fb3f46c678c056106afb5ceae172fab9_6114335631540657274.png",
+    "synopsis": "Honkai: Star Rail es el RPG de fantasía espacial de HoYoverse. Sube al Expreso Astral y descubre las maravillas infinitas de la galaxia en este viaje lleno de emoción y aventuras.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "duet_night_abyss",
+    "name": "Duet Night Abyss",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3950020/ee582fcde01feabf17ed4e31a54a2b9f7e7284a3/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/dde1f8d18bc7c81320adf6c8c2058326.png",
+    "synopsis": " A Thrilling Hybrid Action RPG, featuring a Dual Narrative ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "elden_ring",
+    "name": "Elden Ring",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/0cf3631c283b4879e297fc213535dc12/32/256x256.png",
+    "synopsis": " EL NUEVO JUEGO DE ROL Y ACCIÓN DE AMBIENTACIÓN FANTÁSTICA. Álzate, Sinluz, y que la gracia te guíe para abrazar el poder del Círculo de Elden y encumbrarte como señor del Círculo en las Tierras Intermedias. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "valorant",
+    "name": "Valorant",
+    "cover": "https://www.riotgames.com/darkroom/1440/8d5c497da1c2eeec8cffa99b01abc64b:5329ca773963a5b739e98e715957ab39/ps-f2p-val-console-launch-16x9.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/191c62d342811d1a0d3d0528ec35cd2d/32/256x256.png",
+    "synopsis": "Demostrad vuestro estilo y experiencia en un escenario competitivo internacional. Dispondréis de 13 rondas para atacar y defender vuestro lado mediante un manejo de armas preciso y habilidades tácticas. Y, con una vida por ronda, tendréis que pensar más rápido que vuestros oponentes si queréis sobrevivir. Enfrentaos a vuestros enemigos en los modos competitivo y normal, además de en Combate a muerte y Fiebre de la Spike.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "near_replicant",
+    "name": "NieR Replicant ver.1.22474487139",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1113560/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/6e87bfc5ac7ef7ef7ef092edc06c3bb6.png",
+    "synopsis": " La precuela mejorada de NieR:Automata. Un bondadoso joven parte en compañía de Grimoire Weiss, un extraño libro parlante, en busca de los Versos sellados para salvar a su hermana Yonah, enferma de necrosis rúnica. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "final_fantasy_xvi",
+    "name": "Final Fantasy XVI",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2515020/header.jpg?t=1741059170",
+    "icon": "https://cdn2.steamgriddb.com/icon/8d65c6715c690c06859128920715b807/32/256x256.png",
+    "synopsis": " Un épico mundo de fantasía oscura cuyo destino está en manos de los poderosos eikon y de los Dominantes que los controlan. Esta es la historia de Clive Rosfield, que jura vengarse del misterioso eikon oscuro Ifrit que solo deja desgracias a su paso. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "final_fantasy_vii_remake_intergrade",
+    "name": "Final Fantasy VII Remake Intergrade",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1462040/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/d6cf4da5ced8580c991e16fb54faa1b6.png",
+    "synopsis": "Cloud Strife, exmiembro de Soldado, se adentra en la ciudad del mako, Midgar. El mundo del clásico juego FINAL FANTASY VII renace con gráficos de última generación, un nuevo sistema de combates y una aventura adicional con Yuffie Kirasagi como protagonista.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "minecraft",
+    "name": "Minecraft",
+    "cover": "https://xboxwire.thesourcemediaassets.com/sites/4/15YR_Free_Cape-1-7cbcb0739e3df57534ec-9063efed017354d1b1c3.jpg",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Minecraft-creeper-face.jpg",
+    "synopsis": "Minecraft es un mundo muy cuadrado, y ese mundo ocupa un espacio. Espacio Cuadrado... y en inglés eso es SQUARESPACE. La batalla ya ha empezado, en un mundo muy cuadrado Creepers y Zombies a línea de fuego donde sangre derramo Eh, eh, mírame de frente, no me escondo, te deparará la muerte We eh, dentro del mundo de Minecraft sí que puedo valerme",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "absolum",
+    "name": "Absolum",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1904480/65f868078425ea29b87cb85075fcd1b3a8b71400/header.jpg?t=1763489963",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/ab18174520ee86a2420d34b8617f26ed.png",
+    "synopsis": "Ponte en la piel de los héroes proscritos de Talamh y lucha ferozmente contra el poder tiránico del Rey Sol Azra en Absolum, un novedoso roguelite beat 'em up de Dotemu.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "expedition_33",
+    "name": "Clair Obscur: Expedition 33",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg?t=1762765069",
+    "icon": "https://cdn2.steamgriddb.com/icon/cdb09e834b4b48c5e23c97a444becdfd/32/256x256.png",
+    "synopsis": "Guía a la expedición 33 en su viaje para destruir a la Peintresse para que no pinte la muerte. Explora un mundo inspirado por la Francia de la Belle Époque y combate enemigos únicos en este juego de rol por turnos con mecánicas en tiempo real.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "balatro",
+    "name": "Balatro",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2379780/7a85430784e4d613cdb0547414d8cf16ffa45747/header.jpg?t=1762516142",
+    "icon": "https://cdn2.steamgriddb.com/icon/d6339bfa165891b7ebf1e0a7f50644e2/32/256x256.png",
+    "synopsis": "El roguelike de póker. Balatro es un hipnótico y genial constructor de mazos donde podrás jugar manos ilegales de póker, descubrir comodines que alterarán tus partidas y activar combos impresionantes que dispararán tu adrenalina.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "battle_field_6",
+    "name": "Battle Field 6",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1762876911",
+    "icon": "https://cdn2.steamgriddb.com/icon/61bedb64d6d1782f9f21385c92c018f1/32/128x128.png",
+    "synopsis": "La experiencia bélica definitiva. En una guerra de tanques, cazas y gigantescos arsenales de combate, el arma más mortífera es tu patrulla.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "deltarune",
+    "name": "Deltarune",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1749252480",
+    "icon": "https://cdn2.steamgriddb.com/icon/6e2d5d50a943a0e0d738377f51011685/32/256x256.png",
+    "synopsis": "La experiencia bélica definitiva. En una guerra de tanques, cazas y gigantescos arsenales de combate, el arma más mortífera es tu patrulla.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "doom_2019",
+    "name": "Doom 2019",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg?t=1750784856",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/ee2689a415fc2b28bb05fb5e195ebf04.png",
+    "synopsis": " Ahora incluye los tres paquetes de contenido descargable premium (Unto the Evil-Hell Followed-Bloodfall), mapas, modos y armas, así como todas las actualizaciones de funcionalidades, como el modo Arcade, el modo Foto y la actualización 6.66, la más reciente, que trae más mejoras multijugador. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "doom_eternal",
+    "name": "Doom Eternal",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/782330/header.jpg?t=1755109910",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/50d7f99947b472cc889d58845b9d23e2.png",
+    "synopsis": " Ahora incluye los tres paquetes de contenido descargable premium (Unto the Evil-Hell Followed-Bloodfall), mapas, modos y armas, así como todas las actualizaciones de funcionalidades, como el modo Arcade, el modo Foto y la actualización 6.66, la más reciente, que trae más mejoras multijugador. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "everhood",
+    "name": "Everhood",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229380/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/a46e10627f49a5333cdcd0b700790f8b.png",
+    "synopsis": " An UNCONVENTIONAL ADVENTURE RPG that takes place in an inexpressible world filled with amusing musical battles and strange delightful encounters. To put it simply: You are in for a ride. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "gris",
+    "name": "Gris",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/683320/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/f4573fc71c731d5c362f0d7860945b88/32/256x256.png",
+    "synopsis": " Triste y gris ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "haste",
+    "name": "Haste",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1796470/header.jpg",
+    "icon": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1796470/1fd4aeb0b3a2a5b5af819c5c1aafeefee1bf9c0c.jpg",
+    "synopsis": "Recorre a toda velocidad mundos generados de forma procedural, surca los cielos ¡y no te olvides de bordar los aterrizajes! ¿Podrás ir más rápido que el fin del universo?",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "idle_slayer",
+    "name": "Idle Slayer",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1353300/header.jpg?t=1762479704",
+    "icon": "https://cdn.topmongo.com/packages/com.pabloleban.IdleSlayer/icon_5116ae.png",
+    "synopsis": " Idle Slayer es un juego incremental con mecánicas de estilo de juego activo y de repetición, con un estilo visual de pixel art medieval y con sonidos y música retro de 8 bits. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "fps_chess",
+    "name": "FPS Chess",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2021910/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/75ab8ec90f11a4f0a172aee44bc801bc/32/256x256.png",
+    "synopsis": "Battle a friend in this fast paced 1v1 class-based first-person shooter. Chess takes a back-seat to FPS as you win duel after duel and capture the opponent's pieces until you've beaten their king and won the game.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "paper_please",
+    "name": "Paper Please",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/239030/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/f9a58204a09ad0d3ba91ab2b05906723/32/256x256.png",
+    "synopsis": " ¡Enhorabuena!Su nombre ha salido elegido en la lotería de trabajo.Preséntese inmediatamente ante el Ministerio de Admisiones, en el puesto fronterizo de Grestin.Se le proporcionará una vivienda de clase 8 en Grestin Oriental, en la cual podrá alojarse junto a su familia.Gloria a Arstotzka. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "peak",
+    "name": "Peak",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3527290/bd3771d9a3827610b2742de13d8552918008c302/header_alt_assets_2.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/55c1db3215355af45d48f701bb19527f/32/256x256.png",
+    "synopsis": " PEAK es un juego cooperativo de escalada en el que un solo error puede ser fatal. Ya sea en solitario o en grupo, la única esperanza de salir de la misteriosa isla es subiendo hasta la cima de la montaña del centro. ¿Tenéis lo que hace falta para subir al PICO? ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "path_of_exile",
+    "name": "Path of Exile",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238960/ca612c5e33f8705754dcb89ddb465a6b364d0cb1/header.jpg?t=1761681686",
+    "icon": "https://cdn2.steamgriddb.com/icon/6709e8d64a5f47269ed5cea9f625f7ab/32/256x256.png",
+    "synopsis": " Eres un exiliado. Tendrás que sobrevivir en el oscuro continente de Wraeclast mientras luchas para conseguir el poder que te permitirá vengarte de quienes te traicionaron. Path of Exile es un RPG de acción ambientado en un mundo de fantasía oscura. Es totalmente gratis y nunca será pay-to-win. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "celeste",
+    "name": "Celeste",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/1a31a7377d05761f20e9d256419ef6aa/32/256x256.png",
+    "synopsis": " Triste y azul ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "ark_survival_evolved",
+    "name": "ARK Survival Evolved",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg?t=1763080281",
+    "icon": "https://cdn2.steamgriddb.com/icon/3ec0e2c7f4536e7ce9e9ce183b1de9e8/32/256x256.png",
+    "synopsis": " Dinosaurios y pistolas ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "guilty_gear_strive",
+    "name": "Guilty Gear Strive",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1384160/header.jpg?t=1761305253",
+    "icon": "https://www.guiltygear.com/ggst/en/wordpress/wp-content/uploads/2020/09/archive_may-1.jpg",
+    "synopsis": " Peleas, peleas y un trapo que me gusta y esta lucy de edgerunners :D",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "trono_y_libertad",
+    "name": "Throne And Liberty",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2429640/497cc638fa3186f1aeefddaff89eaaf6f0c2e7dd/header.jpg?t=1762547422",
+    "icon": "https://cdn2.steamgriddb.com/icon/5365be69036835be9408762eea7f6710/32/256x256.png",
+    "synopsis": " Truños y liverpool ns como se escribia el juego",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "code_vein",
+    "name": "Code Vein",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/678960/header.jpg?t=1701310785",
+    "icon": "https://cdn2.steamgriddb.com/icon/70082ac261d74f5a55812335ad13f2b3/32/256x256.png",
+    "synopsis": " Vampiros, sangre, si, parry y tetas ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "tower_of_fantasy",
+    "name": "Tower Of Fantasy",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2064650/e857bc45bda43f383d55a7df8f930efb33bd18b9/header.jpg?t=1761538142",
+    "icon": "https://cdn2.steamgriddb.com/icon/a6334341d81fb047fb5dedb10148891a/32/256x256.png",
+    "synopsis": " Gacha y tetas nada mas que añadir ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "cuphead",
+    "name": "Cuphead",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg?t=1709068852",
+    "icon": "https://cdn2.steamgriddb.com/icon/894a200a66c2b57205af564d6883882a/32/512x512.png",
+    "synopsis": " El mejor juego para perder la amistad y la virginidad ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "genshit_impact",
+    "name": "Genshin Impact",
+    "cover": "https://act-webstatic.hoyoverse.com/puzzle/hk4e/pz_df1bhOOLAB/resource/puzzle/2025/09/22/2916ac8a7a7e2289dc260fb77047888a_5338527183111805616.png?x-oss-process=image/format,webp/quality,Q_90",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/e43db51f5e0db512753f547f013f6635.png",
+    "synopsis": " Ludoatia, tetas, ludopatia, tetas, niññas, simon, luupatia ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "zzz",
+    "name": "Zenless Zone Zero",
+    "cover": "https://fastcdn.hoyoverse.com/content-v2/nap/102026/37198ce9c5ee13abb2c49f1bd1c3ca97_9122669491275776042.png",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/048617ceb68b40a45847078db347ba59.png",
+    "synopsis": " Tetas rebotando en HD 4k y muchos pies modelados de forma perfecta por alguna razon",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "splitgate_2",
+    "name": "Splitgate 2",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2918300/f2926801f1ba15b416105b24db08f0f354a075ea/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/910db7dbc1ab3938b6d0662c93d96938/32/256x256.png",
+    "synopsis": "Make FPS Great Again",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "metro_2033_redux",
+    "name": "Metro 2033 Redux",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286690/header.jpg?t=1741110084",
+    "icon": "https://cdn2.steamgriddb.com/icon/910db7dbc1ab3938b6d0662c93d96938/32/256x256.png",
+    "synopsis": "In 2013 the world was devastated by an apocalyptic event, annihilating almost all mankind and turning the Earth's surface into a poisonous wasteland. A handful of survivors took refuge in the depths of the Moscow underground, and human civilization entered a new Dark Age. The year is 2033.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "monster_hunter_world_iceborne",
+    "name": "Monster Hunter Mundo Nacido de Hielo",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg?t=1758246558",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/82d1c46a6014199790e16ead8a170b98.png",
+    "synopsis": " MANU NOOOOOOOOOOOOOOOOOOOOOOOOO ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "chaos zero nightmare",
+    "name": "Chaos Zero Nightmare",
+    "cover": "https://static-pubcomm.onstove.com/live/czn/brand/images/en/ogtag_1200.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/61a7482816249b974fbab5b8b5eb9991.png",
+    "synopsis": " Gacha tetas y bichos raros ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pan_y_federico",
+    "name": "Pan y Federico escalan el pico solo la demo el juego es caro",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607680/header_spanish.jpg?t=1752169833",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/57f3c6d49921c666e47139e2ead526e3.png",
+    "synopsis": "Pan y federico escalan una increible metáfora sobre el calentamiento global y la amista",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "monster_hunter_rise",
+    "name": "Monster Hunter Alzarse y Romperse el Sol",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880360/header.jpg?t=1753350642",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/1b5875cea07446966ee0f675383d7913.png",
+    "synopsis": "Los monstruos vuelven a cazar esta vez bien porq el dlc ya habia salido, antes no habia ni final en el juego",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "fear_and_hunger",
+    "name": "Miedo y hambre",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002300/header.jpg?t=1621853752",
+    "icon": "https://cdn2.steamgriddb.com/icon/bb20009b6adf2254989eef9384a017d4/32/256x256.png",
+    "synopsis": "Juego donde se pasa hambre y se tiene miedo, creo q me folle a un cerdo raro y sacrifique a una niña 10/10",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "repo",
+    "name": "R.E.P.O",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/8ddd389dc325faeb9e252d331df22b72/32/256x256.png",
+    "synopsis": " An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "inazuma_victory_road",
+    "name": "Inazuma eleven Victory Road",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2799860/b49857068c942b024ede850e3d6c6bfeb54c0fe9/header_spanish.jpg?t=1763354428",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/960e27da1fca2a878f73387752f47e8b.png",
+    "synopsis": " El futbol esta llorando ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "holocure",
+    "name": "Holocure",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2420510/header.jpg?t=1740642230",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/b2c1a4c8e4f9c3f8efe19a903a005149.png",
+    "synopsis": " Vtubers ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "the_end_is_nigh",
+    "name": "El fin se acerca",
+    "cover": "../images/el_fin_se_acerca.png",
+    "icon": "https://cdn2.steamgriddb.com/icon/49af6c4e558a7569d80eee2e035e2bd7/32/256x256.png",
+    "synopsis": "Juego donde eres un tumor y saltas y recoges otros tumores mientras un señor con mas dinero se rie de ti, 10/10 no la volveria a cursar",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "ghost_of_tsushima",
+    "name": "Ghost of Tsushima",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/146096bb201d70053ae083502d493966/32/256x256.png",
+    "synopsis": " Una tormenta se avecina. Adéntrate en el DIRECTOR'S CUT completo de Ghost of Tsushima para PC; forja tu propio camino a través de esta aventura de acción en mundo abierto y descubre sus maravillas ocultas. De la mano de Sucker Punch Productions, Nixxes Software y PlayStation Studios. ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "south_park_el_palo",
+    "name": "South Park El palo de papá",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/213670/header.jpg?t=1680013652",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/47f160a51c5e9be451363520a149ca82.png",
+    "synopsis": " El baston de papa es deseado por todos los niños del pueblo y con ello se desata la guerra entre judios, negros, chinos, caquitas, duendes, elfos, humanos, enanos y nazis ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pokemon_legend_z_a",
+    "name": "Pokemon legendarios de la A a la Z",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/2/2d/Pokemon_Legends_Z-A_Key_Art_Logo.png",
+    "icon": "../images/starmie.jpeg",
+    "synopsis": " AZ llega se monta un hoZtal y dice ZAs y entonces gana",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "frog_pond",
+    "name": "Juego de tener ranas en tu escritorio",
+    "cover": "data:image/jpeg;base64,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SyTSy52k9o2AubAXsoAGijYVfUreNKEdUjgniak1aTFKUq5gKUpQClKUApSlAeVzbDId0U+qiutKAinh8X7NPgK+G4VCf1Y+f51NpQnM+pWtwHDn9UPi351wfsxhT+qHy/GrmlRZE8SXVmefsbhD+rHwX/LVfjOBHCN3+GjV0taSIgWYetvCejD31sa8qHBM0hiKkXe5C4PjO+jEmHkzLsUlBzIw3UsNQR53qZJjJFBLw6D6wkTL8WtaqLF9n2Ehlw0zQMws2W1iBtoQQbctNK5L2TVyGxErzNv42LAegbQe4CubgSueoviFPLd7kqftfCNO9hB6KXmPwjU/fURu1ia+LESXGgSERgajXNIQat4OEQILCMe/X76kxwIvsqo9ABV1h+rMZfEukTMpxDGTXWGJoQ2hkeQyMB5C2RD561a8I4DHCpFs7HVi3iueZudSfM1bUrWFNR2OOtip1dziMMn2F/lFefRI/wBmn8orvSrnPdnNYVBuFUHqAK6UpQClKUApSlAKUpQClKUApSlAKUpQClKUApSlAKUpQClKUApSlAKUpQClKUApSlAKUpQClKUApSlAKUpQClKUApSlAf/Z",
+    "icon": "../images/raniberto.png",
+    "synopsis": " GOTY es un juego donde tienes ranas y hacen ruidos monos",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "f1_2020",
+    "name": "F1 2020",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1080110/header.jpg?t=1678892552",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/b3ee135af89ec1b643d490b04aaf59c3.png",
+    "synopsis": " Coches y fernando alonso ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "duo_chess",
+    "name": "Duolingo Ajedrez",
+    "cover": "https://i.blogs.es/2f82e7/duolingo-fuego/500_333.jpeg",
+    "icon": "https://i.blogs.es/d39971/chatgpt-image-23-abr-2025-14_18_29/500_333.webp",
+    "synopsis": " O me haces Jaque Mate o me como a tu perro ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "clash_royale",
+    "name": "Clash Royale",
+    "cover": "https://miro.medium.com/v2/1*oZ4UrzmTiW8W6Jw5JeWQxQ.jpeg",
+    "icon": "https://play-lh.googleusercontent.com/gnSC6s8-6Tjc4uhvDW7nfrSJxpbhllzYhgX8y374N1LYvWBStn2YhozS9XXaz1T_Pi2q",
+    "synopsis": "Juego donde 2 monarcas se pegan por ver qn tiene la tarjeta de crédito más grande",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "palworld",
+    "name": "Palworld",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1623730/058bd87dc17a7179e07c446aa64d0574ca43ab9d/header.jpg?t=1761725354",
+    "icon": "https://cdn2.steamgriddb.com/icon/82cf0712367108660c5339a4897a728e/32/256x256.png",
+    "synopsis": " No hay leyes a favor de los pals batman >:) ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "muse_dash",
+    "name": "Muse Dash",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774171/header.jpg?t=1756199346",
+    "icon": "https://cdn2.steamgriddb.com/icon/26751be1181460baf78db8d5eb7aad39/32/256x256.png",
+    "synopsis": " Juego de ritmo y tetas y patas y ropa interior ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "uma_musume",
+    "name": "Uma musume Pretty Derby",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224770/header.jpg?t=1760517179",
+    "icon": "https://cdn2.steamgriddb.com/icon/a7282c84a4c2109c3697b6aca8b86aba/32/256x256.png",
+    "synopsis": " Caballos, piernas y carreras ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "dragonbolas",
+    "name": "Dragon Ball Figther Z",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/678950/header.jpg?t=1733508969",
+    "icon": "https://cdn2.steamgriddb.com/icon/33ebd5b07dc7e407752fe773eed20635/32/256x256.png",
+    "synopsis": " Dragones y peleas ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "wallpaper_engine",
+    "name": "Wallpaper Engine",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1739211362",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/2611fdd1a2a998be4d3af1466d41d9d1.png",
+    "synopsis": " fondos bonitos o fondos con tetas ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "nikke",
+    "name": "Nikke Goddes of Victory",
+    "cover": "https://c2c.fp.guinfra.com/file/67c01f1c37d878af0bf1d0bdWWTgFpJS03",
+    "icon": "https://cdn2.steamgriddb.com/icon/29ec343546213d078be89400d9bf76d4/32/256x256.png",
+    "synopsis": " I NEED MORE BULLETS I NEED MORE BULLETS I NEED MORE BULLETS (tetas y culos)  ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pokedoku",
+    "name": "Pokedoku",
+    "cover": "https://pokedoku-space.nyc3.cdn.digitaloceanspaces.com/resources/branding/pokedoku_logo_full.svg",
+    "icon": "https://pokedoku-space.nyc3.cdn.digitaloceanspaces.com/resources/branding/pokedoku_logo.svg",
+    "synopsis": "Puta columna de Galar",
+    "tags": [],
+    "images": []
   }
-  
-  
-
-
+  ,
+   {
+    "id": "pokemon_go",
+    "name": "Pokemon go",
+    "cover": "https://pokemongo.com/img/posts/kantocelebration.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/e7db14e12fb49c1d78a573e6e5f542c2/32/180x180.png",
+    "synopsis": " pokemon go > pokemons de switch  ",
+    "tags": [],
+    "images": []
+  }
+  ,
+  {
+    "id": "chess_com",
+    "name": "Chess.com",
+    "cover": "https://play-lh.googleusercontent.com/vuroi9wouqDzcFSh68TZYg5e7DXTISmS0_Pxm3ewFTrDQ_pPiHipMkGKyM8hj3HfikLx=w3840-h2160-rw",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/efdde87c66fe4e6dc73a2ab6111ca58a.png",
+    "synopsis": " Ajedrez punto ",
+    "tags": [],
+    "images": []
+  }
+  ,
+  {
+    "id": "clash_of_clans",
+    "name": "Clash of clans",
+    "cover": "https://catholicgamereviews.com/wp-content/uploads/2021/11/CoCloading-1.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/af8d1eb220186400c494db7091e402b0.png",
+    "synopsis": " Aldeas ",
+    "tags": [],
+    "images": []
+  }
+   ,
+  {
+    "id": "GTA_V",
+    "name": "Grand theft auto V",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1753974947",
+    "icon": "https://cdn2.steamgriddb.com/icon/84ddfb34126fc3a48ee38d7044e87276/32/256x256.png",
+    "synopsis": " Robah, follah, robah, follah, robah y coches ",
+    "tags": [],
+    "images": []
+  }
+  ,
+  {
+    "id": "THOU_ETERNAL_EVERBLOOM",
+    "name": "THOU ETERNAL EVERBLOOM",
+    "cover": "https://img.itch.zone/aW1nLzE5OTA1ODY5LnBuZw==/original/0DaS3Y.png",
+    "icon": "https://apktodo.io/uploads/2025/7/thou-eternal-everbloom-icon-150.jpg",
+    "synopsis": " Elfa, sexo, casa ",
+    "tags": [],
+    "images": []
+  }
+  ,
+  {
+    "id": "ORISRIES",
+    "name": "ORISRIES",
+    "cover": "https://lh3.googleusercontent.com/OM3k66SiwrVNDdrSJEofYCcd5kUv3ZuBiHh66Oxhv8ZxhDuO9pW5xyIkvgrDhdLyj1_ATkEJ39qvm7m-i2iSI61OZweMXNMR_bOi=h200",
+    "icon": "https://play-lh.googleusercontent.com/ZDs_Se4tdj2a0WdUm6_KYz3SH-r27zgQkPfCBQIl0Sh70rvJcruzLTdgfrHgOpIKiqjodp0mqIPvDzmKGdGL0Q=w240-h480-rw",
+    "synopsis": " Robah, follah, sexo, sexo ",
+    "tags": [],
+    "images": []
+  }
 ]

@@ -1,8 +1,47 @@
-.awards-list { display: grid; gap: 1rem; margin-top: 1rem; }
-.award-card { background: rgba(255,255,255,0.02); padding: 1rem; border-radius: 10px; border: 1px solid rgba(255,255,255,0.03); }
-.award-card h2 { margin: 0 0 0.4rem 0; }
+.awards-list { display: block; gap: 1rem; margin-top: 1rem; }
+.awards-controls { display:flex; justify-content: space-between; align-items:center; margin-top: 0.75rem; margin-bottom: 1.25rem; gap: 1rem; }
+.view-toggle { display:flex; gap:0.5rem; }
+.toggle { background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.02); color: var(--muted); padding: 0.4rem 0.6rem; border-radius: 8px; cursor:pointer; }
+.toggle.active { color: var(--text); background: linear-gradient(90deg, rgba(58,160,255,0.06), rgba(100,108,255,0.02)); border-color: rgba(58,160,255,0.08); }
+.search-sort-row { display:flex; gap:0.5rem; align-items:center; }
+.search-input { padding: 0.6rem 0.8rem; border-radius: 8px; border: 1px solid rgba(255,255,255,0.04); background: rgba(255,255,255,0.02); color: var(--text); min-width: 220px; }
+.sort-select { padding: 0.55rem 0.8rem; border-radius: 8px; border: 1px solid rgba(255,255,255,0.04); background: rgba(255,255,255,0.02); color: var(--text); }
+.clear-filters { padding: 0.55rem 0.8rem; border-radius: 8px; border: 1px solid rgba(255,255,255,0.04); background: transparent; color: var(--muted); cursor:pointer; }
+.award-card { /* component-level styles live in AwardCard.css - keep page-level overrides minimal */ }
+.award-card-left { position: relative; }
+.award-card-right { }
+.award-cover { border: 1px solid rgba(255,255,255,0.03); }
+.award-icon { position: absolute; left: 8px; bottom: 8px; width: 48px; height: 48px; background-size: cover; background-position:center; border-radius: 8px; border: 2px solid rgba(255,255,255,0.06); }
+.award-trophy { position: absolute; right: 8px; top: 8px; width: 48px; height: 48px; background-size: contain; background-repeat: no-repeat; background-position:center; opacity: 0.95; }
+.award-card-right h2 { margin: 0 0 0.4rem 0; }
 .muted { color: var(--muted); }
 .nominees { display:flex; gap: 0.6rem; margin-top: 0.6rem; flex-wrap: wrap; }
 .nominee { padding: 0.35rem 0.6rem; background: rgba(255,255,255,0.02); border-radius: 8px; color: var(--muted); }
 .nominee a { color: inherit; text-decoration: none; }
 .nominee a:hover { color: var(--primary); }
+
+/* Awards grid variant */
+.awards-grid { width: min(96vw, 1600px); margin-left: auto; margin-right: auto; }
+.awards-grid.list { display:flex; flex-direction: column; gap: 1.5rem; }
+.awards-grid.grid { display: grid; grid-template-columns: repeat(1, 1fr); gap: 1.5rem; align-items: start; grid-auto-rows: 1fr; width: 100%; }
+.award-wrapper { width: 100%; }
+.awards-grid.grid .award-wrapper { width: auto; display:flex; justify-content:stretch; align-items:flex-start; }
+.award-tile { width: 100%; }
+.awards-grid.grid .award-wrapper .award-tile { max-width: none; width: 100%; }
+@media (min-width: 520px) {
+	.awards-grid.grid { grid-template-columns: repeat(2, minmax(180px, 1fr)); }
+}
+@media (min-width: 900px) {
+	.awards-grid.grid { grid-template-columns: repeat(3, minmax(220px, 1fr)); }
+}
+@media (min-width: 1200px) {
+	.awards-grid.grid { grid-template-columns: repeat(4, minmax(280px, 1fr)); }
+}
+
+/* make search/controls responsive on smaller devices */
+@media (max-width: 520px) {
+	.awards-controls { justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+	.search-sort-row { flex-direction: column; align-items: stretch; gap: 0.5rem; }
+	.search-input { min-width: unset; width: 100%; }
+	.view-toggle { margin-top: 0.5rem; }
+}

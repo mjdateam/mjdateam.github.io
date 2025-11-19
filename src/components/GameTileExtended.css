@@ -2,6 +2,7 @@
   display: flex;
   gap: 1rem;
   align-items: flex-start;
+  position: relative;
   border-radius: 10px;
   padding: 0.5rem 0.75rem;
   /* Remove background / border, keep a subtle shadow for depth */
@@ -12,16 +13,31 @@
 .gtex-link { display:block; text-decoration:none; color:inherit; }
 .gtex-left { flex: 0 0 auto; width: 280px; max-width: 60%; }
 .gtex-cover { width: 100%; aspect-ratio: 4/3; background-size: cover; background-position:center; border-radius: 8px; box-shadow: 0 8px 20px rgba(2,8,20,0.25); }
+.gtex-cover.is-award { position: relative; }
+.gtex-icon { position: absolute; left: 8px; bottom: 8px; width: 48px; height: 48px; background-size: cover; background-position: center; border-radius: 8px; border: 2px solid rgba(255,255,255,0.06); box-shadow: 0 6px 12px rgba(2,8,20,0.4); }
+.gtex-trophy { position: absolute; right: 8px; top: 8px; width: 56px; height: 56px; background-size: contain; background-repeat: no-repeat; background-position:center; opacity: 0.95; transform: translateZ(0); pointer-events: none; }
 .gtex-right { flex: 1 1 auto; min-width: 0; }
 .gtex-right h3 { margin: 0 0 0.35rem 0; font-size: 1.05rem; }
-.gtex-synopsis { margin: 0; color: var(--muted); line-height: 1.3; }
+.gtex-right h3 { text-shadow: 0 2px 6px rgba(0,0,0,0.55); }
+.gtex-synopsis { margin: 0; color: var(--muted); line-height: 1.3; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 4; line-clamp: 4; overflow: hidden; }
+
+.game-tile-extended.is-award .gtex-cover { background: linear-gradient(135deg, rgba(100,108,255,0.12), rgba(58,160,255,0.06)); display:block; }
+/* Position icon and trophy relative to the cover area so they overlay on top */
+.gtex-left { position: relative; }
+
+/* Nominated awards overlay - small icons in bottom-right */
+.gtex-nominees { position: absolute; right: 8px; bottom: 8px; display:flex; gap: 0.4rem; align-items: center; z-index: 5; }
+.gtex-nominee { display:inline-flex; width: 36px; height: 36px; border-radius: 8px; overflow: hidden; border: 1px solid rgba(255,255,255,0.04); box-shadow: 0 4px 12px rgba(0,0,0,0.35); }
+.gtex-nominee span { display:block; width: 100%; height: 100%; background-size: cover; background-position: center; }
 
 /* Awards should match the same layout; make sure they don't expand unexpectedly */
-.game-tile-extended.is-award { background: linear-gradient(180deg, rgba(100,108,255,0.02), rgba(58,160,255,0.01)); }
+/* No background for award cards to keep uniform visual weight; the cover gets a gradient fallback if missing */
 
 @media (max-width: 760px) {
   .game-tile-extended { flex-direction: column; }
   .gtex-left { width: 100%; max-width: 100%; }
+  .gtex-nominee { width: 32px; height: 32px; }
+  .gtex-nominees { position: static; margin-top: 0.6rem; }
 }
 
 @media (min-width: 900px) {

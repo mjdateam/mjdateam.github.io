@@ -1,8 +1,28 @@
 [
   {
-    "id": "award-001",
-    "name": "Best Visuals",
-    "description": "Awarded to the game with the most striking visual design.",
-    "nominees": ["game-001", "game-002"]
+    "id": "casino-disfrazado",
+    "name": "Casino Disfrazado",
+    "description": "Mejor juego que se basa en loot boxes o mecánicas similares para generar ingresos.",
+    "cover": "https://www.trouvillesurmer.org/app/uploads/2025/03/trouville-casino-trouville-machines-a-sous-2.webp",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1585/1585503.png",
+    "trophy": "/images/price/starmie.png",
+    "nominees": [
+      "chaos zero nightmare",
+      "clash_royale",
+      "duet_night_abyss",
+      "genshit_impact",
+      "honkai_star_rail",
+      "lol",
+      "my_singing_monsters",
+      "nikke",
+      "overwatch_2",
+      "pokemon_go",
+      "roblox",
+      "trono_y_libertad",
+      "tower_of_fantasy",
+      "uma_musume",
+      "wuthering_waves",
+      "zzz"
+    ]
   }
 ]

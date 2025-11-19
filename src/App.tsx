@@ -5,6 +5,7 @@ import Home from './pages/Home'
 import Games from './pages/Games'
 import Awards from './pages/Awards'
 import GameDetail from './pages/GameDetail'
+import AwardDetail from './pages/AwardDetail'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
             <Route path="/games" element={<Games />} />
             <Route path="/games/:id" element={<GameDetail />} />
             <Route path="/awards" element={<Awards />} />
+            <Route path="/awards/:id" element={<AwardDetail />} />
           </Routes>
         </div>
       </div>

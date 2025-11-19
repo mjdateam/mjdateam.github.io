@@ -1,0 +1,13 @@
+.award-tile-link { display:block; text-decoration:none; color:inherit; }
+.award-tile { display:block; width:100%; }
+.award-cover { position:relative; width:100%; aspect-ratio: 16/9; background-size:cover; background-position:center; border-radius:10px; overflow:hidden; }
+.award-label { position: absolute; left: 0; right: 0; bottom: 0.35rem; padding: 0.6rem 0.9rem; color: var(--text); font-weight: 700; font-size: 1rem; text-shadow: 0 1px 3px rgba(0,0,0,0.6); background: linear-gradient(180deg, rgba(0,0,0,0), rgba(0,0,0,0.45)); }
+/* trophy overlay not shown on tile view; keep trophy display only on list cards */
+
+@media (min-width: 900px) {
+  .award-cover { aspect-ratio: 16/10; }
+}
+@media (min-width: 1200px) {
+  .award-cover { aspect-ratio: 16/11; }
+  .award-label { font-size: 1.05rem; padding: 0.7rem 1rem; }
+}

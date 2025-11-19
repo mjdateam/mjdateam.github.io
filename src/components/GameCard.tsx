@@ -21,7 +21,7 @@ export default function GameCard({ id, name, cover, icon, synopsis, tags = [] }:
         <div className="game-card-body">
         <div className="game-card-title">
           {iconSrc ? (
-            <img src={iconSrc} className="game-icon" alt={`${name} icon`} />
+            <img src={iconSrc} className="game-icon" alt={`Icono de ${name}`} />
           ) : null}
           <h3 id={`title-${id}`}>{name}</h3>
         </div>

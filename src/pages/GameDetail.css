@@ -6,12 +6,27 @@
   height: 320px;
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgba(0,0,0,0.06); /* subtle fallback if no cover is set */
   display:flex;
   align-items: end;
   padding: 1.25rem;
   position: relative;
 }
 .detail-cover h1 { margin: 0; color: var(--text); font-size: 2rem; text-shadow: 0 1px 3px rgba(0,0,0,0.5); }
+
+/* Title box: full width of cover with padded background and sized to text height */
+.detail-title-box {
+  width: 100%;
+  background: #00000060;
+  padding: 0.45rem 0.85rem;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 0.8rem;
+  align-items: center;
+}
+.detail-title-box .detail-icon { width: 72px; height: 72px; margin-right: 0.85rem; }
+.detail-title-box h1 { margin: 0; font-size: 2rem; }
 .detail-cover .detail-icon { width: 56px; height: 56px; border-radius: 8px; margin-right: 1rem; }
 .detail-body { margin-top: 1rem; }
 .synopsis { color: var(--muted); margin-bottom: 0.8rem; }
@@ -21,9 +36,25 @@
 .gallery-item { height: 180px; background-size: cover; background-position: center; border-radius: 10px; border: 1px solid rgba(255,255,255,0.03); }
 .awards-section { margin-top: 1rem; }
 .awards-list { display:flex; gap: 0.6rem; flex-wrap: wrap; margin-top: 0.6rem; }
-.award { padding: 0.45rem 0.8rem; background: rgba(255,255,255,0.02); border-radius: 8px; color: var(--muted); }
+.award { padding: 0.45rem 0.8rem; background: rgba(255,255,255,0.02); border-radius: 8px; color: var(--muted); display:flex; gap:0.6rem; align-items:center; }
+.award-trophy { width: 44px; height: 44px; background-size: contain; background-repeat:no-repeat; background-position:center; border-radius: 6px; }
+.award-name { font-weight: 600; color: var(--text); }
 
 @media (max-width: 520px) {
-  .detail-cover { height: 220px; }
+  .detail-cover { height: 220px; min-height: 220px; }
   .detail-gallery { grid-template-columns: repeat(auto-fit, minmax(140px,1fr)); }
+}
+
+/* Ensure small cover images are scaled to fill the hero (useful if a small file is used) */
+.detail-cover[style] { background-size: cover !important; background-position: center !important; }
+
+/* Trophy overlay inside hero for awards page */
+.detail-cover .award-trophy {
+  position: absolute;
+  right: 8px;
+  top: 8px;
+  width: 56px;
+  height: 56px;
+  pointer-events: none;
+  opacity: 0.98;
 }

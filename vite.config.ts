@@ -8,7 +8,7 @@ export default defineConfig({
     port: 3000,
     // Accept hostnames from the network so we can access the dev server from remote hosts
     // Add the domain you want to allow (e.g. play.onara.top)
-    host: true,
+    // host: true,
     allowedHosts: ['play.onara.top', 'mjda.onara.top'],
   },
   
