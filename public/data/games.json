@@ -925,9 +925,8 @@
     "synopsis": "Puta columna de Galar",
     "tags": [],
     "images": []
-  }
-  ,
-   {
+  },
+  {
     "id": "pokemon_go",
     "name": "Pokemon go",
     "cover": "https://pokemongo.com/img/posts/kantocelebration.jpg",
@@ -935,8 +934,7 @@
     "synopsis": " pokemon go > pokemons de switch  ",
     "tags": [],
     "images": []
-  }
-  ,
+  },
   {
     "id": "chess_com",
     "name": "Chess.com",
@@ -945,8 +943,7 @@
     "synopsis": " Ajedrez punto ",
     "tags": [],
     "images": []
-  }
-  ,
+  },
   {
     "id": "clash_of_clans",
     "name": "Clash of clans",
@@ -955,8 +952,7 @@
     "synopsis": " Aldeas ",
     "tags": [],
     "images": []
-  }
-   ,
+  },
   {
     "id": "GTA_V",
     "name": "Grand theft auto V",
@@ -965,8 +961,7 @@
     "synopsis": " Robah, follah, robah, follah, robah y coches ",
     "tags": [],
     "images": []
-  }
-  ,
+  },
   {
     "id": "thou_eternal_everbloom",
     "name": "THOU ETERNAL EVERBLOOM",
@@ -975,8 +970,7 @@
     "synopsis": " Elfa, sexo, casa ",
     "tags": [],
     "images": []
-  }
-  ,
+  },
   {
     "id": "orisies",
     "name": "ORISRIES",
@@ -985,14 +979,157 @@
     "synopsis": " Robah, follah, sexo, sexo ",
     "tags": [],
     "images": []
-  }
-  ,
+  },
   {
     "id": "juego_chino",
     "name": "千嬌百妹",
     "cover": "https://o.qoo-img.com/img.qoo-img.com/file/2025/8/29/6cccc119194b4c77970ccaf9c2363281.jpg",
     "icon": "https://o.qoo-img.com/img.qoo-img.com/open/dc/image/25c8b437e225c87aba9d700296429ff9.png",
     "synopsis": " folla,folla,folla,folla,folla,folla,folla ",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "life_rara",
+    "name": "Life is strange remastered",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1265920/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/454a7bfd685393329597fdb7a92b7969.png",
+    "synopsis": " toxic yuri con viajes en el tiempo y peor rendimiento",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "life_rara_before",
+    "name": "Life is strange: before the storm",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/554620/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/eeabb27857dabba2b4d8078c05ec31db.png",
+    "synopsis": " toxic yuri levemente más sano, sin viajes en el tiempo",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "life_is_rara_electric_boogalo",
+    "name": "The awesome adventures of captain spirit",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/845070/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/8faa507efebfa6a493a3933f78b72209.png",
+    "synopsis": "niño autista es abusado y te spoilea el life is strange 2",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "dijimon_nueva_orden",
+    "name": "Digimon world next order",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1530160/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/5c54c0e87e5883b70dc2488ffad09d9d/32/256x256.png",
+    "synopsis":"LA experiencia ser padre, ahora con waifus",
+    "tags": [],
+    "images": []
+  },
+   {
+    "id": "unravel_2",
+    "name": "Unravel 2",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1225570/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/b2e2d846bb30c25159b2eac1b55bddcb.png",
+    "synopsis":"LA causa de mi divorcio",
+    "tags": [],
+    "images": []
+  },
+   {
+    "id": "monster_high_good",
+    "name": "Monster prom",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/743450/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/1cd3882394520876dc88d1472aa2a93f/32/256x256.png",
+    "synopsis":"Monster high pero ligas",
+    "tags": [],
+    "images": []
+  },
+    {
+    "id": "yugi_ah",
+    "name": "Yu-gi-oh Duel Links",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601510/c5bbd8019f5e1a5d5e21a5264246598222a4659f/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/d636185169918588c20aa3583b0cf430/32/256x256.png",
+    "synopsis":"Mi rival lleva dos horas encadenando cartas y todavía no he jugado. He perdido",
+    "tags": [],
+    "images": []
+  },
+   {
+    "id": "inscription",
+    "name": "Inscryption",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/e9d86e939586740e628945ebffd47c47/32/256x256.png",
+    "synopsis":"No confies en la comadreja",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "hex",
+    "name": "The hex",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/510420/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/e9d86e939586740e628945ebffd47c47/32/256x256.png",
+    "synopsis":"'A game that defies me to tell you anything about it, not that I’m convinced you’d believe me if I did.' Rock Paper Shotgun",
+    "tags": [],
+    "images": []
+  },
+{
+    "id": "figuras",
+    "name": "It's this seat taken?",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3035120/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/e9d86e939586740e628945ebffd47c47/32/256x256.png",
+    "synopsis":"Mejor romance homosexual entre figuras geometricas de este año 6/10 demasiados catalanes",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "digimon",
+    "name": "Digimon World: Story cyber sleuth",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1042550/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/ab25791372fa14a9d690f2587950fad3/32/256x256.png",
+    "synopsis":"La no experiencia de ser padre con más waifus",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pikimin",
+    "name": "Pikmin",
+    "cover": "https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/ZXXSH3ZYZVJ4VHZ7NBVY7HXFH4.jpg",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/1/13/Pikmin_cover_art.jpg",
+    "synopsis":"La guerra... la guerra nunca cambia. Pero los hombres sí, por los caminos que recorren.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "gothica_culona",
+    "name": "Nier automata",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg?t=1760991364",
+    "icon": "https://cdn2.steamgriddb.com/icon/8a06615d4abacff23bb8cde6c87e911c/32/256x256.png",
+    "synopsis":"Una gótica coluna y un twink, goty automatico",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "silksong_demake",
+    "name": "Hollow Knight Silksong DEMAKE",
+    "cover": "https://img.itch.zone/aW1nLzc5NDYxODgucG5n/original/aNOykx.png",
+    "icon": "https://img.itch.zone/aW1nLzc5NDYxODgucG5n/original/aNOykx.png",
+    "synopsis": "Silksong no ha salido, todo ha sido una alucinación. Este es el único Silksong que tendrás.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "super_mario_galaxy",
+    "name": "Super Mario Galaxy REMASTER",
+    "cover": "https://cdn2.steamgriddb.com/thumb/74105d373a71b517ed650caabb9c2cb8.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/f7696a9b362ac5a51c3dc8f098b73923/32/256x256.png",
+    "synopsis": "Mariano se encuentra en la mamada galaxial en full HD 4k 1 Link Mega. Ayúdale a",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "bongo_cat",
+    "name": "Bongo Cat",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3419430/2e6c93c020fe13d09d8120bb9164ed7cb58f00c5/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/28f53aa0ac0ac6535dbae13670a3c7c0.png",
+    "synopsis": "miau miau (explora el postapocaliptico mundo de tu escritorio después de la universidad al ritmo de los bongos de un gato sobreexplotado",
     "tags": [],
     "images": []
   }
