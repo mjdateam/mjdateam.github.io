@@ -15,8 +15,7 @@ export default function Awards() {
   const [searchParams, setSearchParams] = useSearchParams()
   type View = 'list' | 'grid'
   const param = (searchParams.get('view') as View) || undefined
-  const stored = typeof window !== 'undefined' ? (localStorage.getItem('mjda.awards.view') as View | null) : null
-  const view = (param ?? stored ?? 'list') as View
+  const view = (param ?? 'list') as View
 
   useEffect(() => {
     fetch('/data/awards.json').then(r => r.json()).then(setAwards)
@@ -76,8 +75,8 @@ export default function Awards() {
           <button className="clear-filters" onClick={() => { setQuery(''); setSort('alpha-asc'); setSearchParams({}); }}>Limpiar</button>
         </div>
         <div className="view-toggle">
-          <button className={`toggle ${view === 'list' ? 'active' : ''}`} onClick={() => { const next: Record<string, string> = {}; for (const [k, v] of searchParams.entries()) next[k] = v; next.view = 'list'; setSearchParams(next); try { localStorage.setItem('mjda.awards.view', 'list') } catch (err) { void err } }}>Lista</button>
-          <button className={`toggle ${view === 'grid' ? 'active' : ''}`} onClick={() => { const next: Record<string, string> = {}; for (const [k, v] of searchParams.entries()) next[k] = v; next.view = 'grid'; setSearchParams(next); try { localStorage.setItem('mjda.awards.view', 'grid') } catch (err) { void err } }}>Grid</button>
+          <button className={`toggle ${view === 'list' ? 'active' : ''}`} onClick={() => { const next: Record<string, string> = {}; for (const [k, v] of searchParams.entries()) next[k] = v; next.view = 'list'; setSearchParams(next); }}>Lista</button>
+          <button className={`toggle ${view === 'grid' ? 'active' : ''}`} onClick={() => { const next: Record<string, string> = {}; for (const [k, v] of searchParams.entries()) next[k] = v; next.view = 'grid'; setSearchParams(next); }}>Grid</button>
         </div>
       </div>
       {view === 'grid' ? (

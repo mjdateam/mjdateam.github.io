@@ -1,4 +1,4 @@
-import { useEffect, useState, useMemo, useReducer } from 'react'
+import { useEffect, useState, useMemo, useRef } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import GameTile from '../components/GameTile'
 import GameCard from '../components/GameCard'
@@ -22,46 +22,19 @@ export default function Games() {
   const [games, setGames] = useState<Game[]>([])
   const [tags, setTags] = useState<Tag[]>([])
   type Filters = { query: string; tags: string[]; sort: 'none' | 'alpha-asc' | 'alpha-desc' }
-  type Action =
-    | { type: 'setAll'; payload: Filters }
-    | { type: 'setQuery'; payload: string }
-    | { type: 'setTags'; payload: string[] }
-    | { type: 'toggleTag'; payload: string }
-    | { type: 'setSort'; payload: Filters['sort'] }
-    | { type: 'clear' }
-  const filtersReducer = (state: Filters, action: Action) => {
-    switch (action.type) {
-      case 'setAll':
-        return action.payload as Filters
-      case 'setQuery':
-        return { ...state, query: action.payload }
-      case 'setTags':
-        return { ...state, tags: action.payload }
-      case 'toggleTag':
-        return { ...state, tags: state.tags.includes(action.payload) ? state.tags.filter(x => x !== action.payload) : [...state.tags, action.payload] }
-      case 'setSort':
-        return { ...state, sort: action.payload }
-      case 'clear':
-        return { query: '', tags: [], sort: 'alpha-asc' as const }
-      default:
-        return state
-    }
-  }
-  const [filters, dispatch] = useReducer(filtersReducer, { query: '', tags: [], sort: 'alpha-asc' } as Filters)
+  const [filters, setFilters] = useState<Filters>({ query: '', tags: [], sort: 'alpha-asc' })
+  const filtersRef = useRef<Filters>(filters)
+  useEffect(() => { filtersRef.current = filters }, [filters])
+
+  const setQuery = (q: string) => setFilters((s) => ({ ...s, query: q }))
+  const toggleTag = (id: string) => setFilters((s) => (s.tags.includes(id) ? { ...s, tags: s.tags.filter((t) => t !== id) } : { ...s, tags: [...s.tags, id] }))
+  const setSort = (s: Filters['sort']) => setFilters((st) => ({ ...st, sort: s }))
+  const clearFilters = () => setFilters({ query: '', tags: [], sort: 'alpha-asc' })
   const [searchParams, setSearchParams] = useSearchParams()
   type View = 'list' | 'grid'
-  // prefer URL param, fallback to localStorage, default to 'list'
+  // prefer URL param, default to 'list' (do not use localStorage)
   const param = (searchParams.get('view') as View) || undefined
-  let stored: View | null = null
-  if (typeof window !== 'undefined') {
-    try {
-      stored = localStorage.getItem('mjda.view') as View | null
-    } catch {
-      // accessing localStorage can throw in some environments (e.g., private mode)
-      stored = null
-    }
-  }
-  const view = (param ?? stored ?? 'list') as View
+  const view = (param ?? 'list') as View
 
   useEffect(() => {
     fetch('/data/games.json')
@@ -72,7 +45,7 @@ export default function Games() {
       .then(setTags)
   }, [])
 
-  // initialize filters from URL params, but only dispatch when they differ
+  // initialize filters from URL params, but only set when they differ from current filters
   useEffect(() => {
     const q = searchParams.get('q') || ''
     const tagParam = searchParams.get('tags') || ''
@@ -80,14 +53,14 @@ export default function Games() {
     const sortParam = (searchParams.get('sort') as 'none' | 'alpha-asc' | 'alpha-desc' | null) || 'alpha-asc'
     const candidate: Filters = { query: q, tags: tagsArr, sort: sortParam }
 
-    const tagsEqual = candidate.tags.length === filters.tags.length && candidate.tags.every((t) => filters.tags.includes(t))
-    const same = candidate.query === filters.query && candidate.sort === filters.sort && tagsEqual
+    const current = filtersRef.current
+    const tagsEqual = candidate.tags.length === current.tags.length && candidate.tags.every((t) => current.tags.includes(t))
+    const same = candidate.query === current.query && candidate.sort === current.sort && tagsEqual
     if (!same) {
-      dispatch({ type: 'setAll', payload: candidate })
+      // schedule update on next tick to avoid synchronous setState inside effect
+      setTimeout(() => setFilters(candidate), 0)
     }
-  }, [searchParams, filters])
-
-  // store current view into localStorage whenever search param is not set (i.e. button clicks)
+  }, [searchParams])
 
   const tagName = (id?: string) => tags.find((t) => t.id === id)?.name || id
 
@@ -130,18 +103,16 @@ export default function Games() {
 
       <div className="games-controls">
         <div className="search-sort-row">
-          <input aria-label="Buscar juegos" className="search-input" value={filters.query} placeholder="Buscar juegos..." onChange={(e) => dispatch({ type: 'setQuery', payload: e.target.value })} />
-          <select className="sort-select" value={filters.sort} onChange={(e) => dispatch({ type: 'setSort', payload: e.target.value as 'none' | 'alpha-asc' | 'alpha-desc' })}>
+          <input aria-label="Buscar juegos" className="search-input" value={filters.query} placeholder="Buscar juegos..." onChange={(e) => setQuery(e.target.value)} />
+          <select className="sort-select" value={filters.sort} onChange={(e) => setSort(e.target.value as 'none' | 'alpha-asc' | 'alpha-desc')}>
             <option value="alpha-asc">Alfabético (A → Z)</option>
             <option value="alpha-desc">Alfabético (Z → A)</option>
           </select>
-          <button className="clear-filters" onClick={() => { dispatch({ type: 'clear' }); setSearchParams({}); }}>Limpiar</button>
+          <button className="clear-filters" onClick={() => { clearFilters(); setSearchParams({}); }}>Limpiar</button>
         </div>
         <div className="tags-filter">
           {tags.map((t) => (
-            <button key={t.id} aria-pressed={filters.tags.includes(t.id)} className={`tag-filter ${filters.tags.includes(t.id) ? 'active' : ''}`} onClick={() => {
-              dispatch({ type: 'toggleTag', payload: t.id })
-            }}>{t.name}</button>
+            <button key={t.id} aria-pressed={filters.tags.includes(t.id)} className={`tag-filter ${filters.tags.includes(t.id) ? 'active' : ''}`} onClick={() => { toggleTag(t.id) }}>{t.name}</button>
           ))}
         </div>
         <div className="view-toggle">
@@ -152,7 +123,6 @@ export default function Games() {
               for (const [k, v] of searchParams.entries()) next[k] = v
               next.view = 'list'
               setSearchParams(next)
-              try { localStorage.setItem('mjda.view', 'list') } catch (err) { void err }
             }}
           >Lista</button>
           <button
@@ -162,7 +132,6 @@ export default function Games() {
               for (const [k, v] of searchParams.entries()) next[k] = v
               next.view = 'grid'
               setSearchParams(next)
-              try { localStorage.setItem('mjda.view', 'grid') } catch (err) { void err }
             }}
           >Grid</button>
         </div>
