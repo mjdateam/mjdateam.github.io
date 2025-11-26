@@ -52,7 +52,15 @@ export default function Games() {
   type View = 'list' | 'grid'
   // prefer URL param, fallback to localStorage, default to 'list'
   const param = (searchParams.get('view') as View) || undefined
-  const stored = typeof window !== 'undefined' ? (localStorage.getItem('mjda.view') as View | null) : null
+  let stored: View | null = null
+  if (typeof window !== 'undefined') {
+    try {
+      stored = localStorage.getItem('mjda.view') as View | null
+    } catch {
+      // accessing localStorage can throw in some environments (e.g., private mode)
+      stored = null
+    }
+  }
   const view = (param ?? stored ?? 'list') as View
 
   useEffect(() => {
@@ -64,16 +72,20 @@ export default function Games() {
       .then(setTags)
   }, [])
 
-  // initialize filters from URL params
-  // helper to compare arrays shallowly
-  // initialize filters from URL params; only when they differ from current state so we don't overwrite
+  // initialize filters from URL params, but only dispatch when they differ
   useEffect(() => {
     const q = searchParams.get('q') || ''
     const tagParam = searchParams.get('tags') || ''
     const tagsArr = tagParam ? tagParam.split(',').filter(Boolean) : []
     const sortParam = (searchParams.get('sort') as 'none' | 'alpha-asc' | 'alpha-desc' | null) || 'alpha-asc'
-    dispatch({ type: 'setAll', payload: { query: q, tags: tagsArr, sort: sortParam } })
-  }, [searchParams])
+    const candidate: Filters = { query: q, tags: tagsArr, sort: sortParam }
+
+    const tagsEqual = candidate.tags.length === filters.tags.length && candidate.tags.every((t) => filters.tags.includes(t))
+    const same = candidate.query === filters.query && candidate.sort === filters.sort && tagsEqual
+    if (!same) {
+      dispatch({ type: 'setAll', payload: candidate })
+    }
+  }, [searchParams, filters])
 
   // store current view into localStorage whenever search param is not set (i.e. button clicks)
 
@@ -87,11 +99,11 @@ export default function Games() {
     if (filters.sort && filters.sort !== 'none') params.sort = filters.sort
     const currentViewParam = view
     if (currentViewParam) params.view = currentViewParam
-    // compare currently applied searchParams to avoid issuing an update and causing cycles
-    const currentParams: Record<string, string> = {}
-    for (const [k, v] of searchParams.entries()) currentParams[k] = v
-    const same = Object.keys(params).length === Object.keys(currentParams).length && Object.keys(params).every(k => currentParams[k] === params[k])
-    if (!same) {
+
+    // compare via query string to avoid constructing objects and reduce chance of cycles
+    const newQs = new URLSearchParams(params).toString()
+    const currentQs = searchParams.toString()
+    if (newQs !== currentQs) {
       if (Object.keys(params).length) setSearchParams(params)
       else setSearchParams({})
     }
