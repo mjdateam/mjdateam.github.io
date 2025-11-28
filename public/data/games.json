@@ -1153,10 +1153,46 @@
   },
   {
     "id": "pokemon_pocket",
-    "name": "Pokemon Showdown!",
+    "name": "Pokemon Pocket",
     "cover": "https://culturageek.com.ar/wp-content/uploads/2024/11/a-collage-of-powerful-pokemon-tcg-pocket-card-art_11zon-e1730753914386.webp",
     "icon": "https://play-lh.googleusercontent.com/293sJt2BYM097zkg_merisY5eLb_LFUmpiOIyQBPnMaSsiIP5VsZcKxQ6qXICPYYXvMF_1xKrWPXd49_x0XHCg=s48",
     "synopsis": "The Pokemon Company quiere tu dinero :3",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pokemon_anil",
+    "name": "Pokemon Añil",
+    "cover": "https://cdn2.steamgriddb.com/thumb/86e5aec52519ba382445c3506f20d345.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/96614fbb16c685125f0e274b3f6b8d8e.png",
+    "synopsis": "Eric la hostia lo ha vuelto a hacer.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pokemon_iberia",
+    "name": "Pokemon Iberia",
+    "cover": "https://cdn2.steamgriddb.com/thumb/ce1cb0e22d48fa4df3bdd855d16cb0bc.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/24611a00cd5703876097b06abc12643b/32/256x256.png",
+    "synopsis": "Eric la hostia lo ha vuelto a hacer. Pero con chistes politicos.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pokemon_xy",
+    "name": "Pokemon XY",
+    "cover": "https://cdn2.steamgriddb.com/thumb/644caa5ff1e3ae07e414b40192f47807.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/519626a6bcb58aec01cd1cc6cdb0dbbe.png",
+    "synopsis": "Megaevolución :3",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pokemon_roza",
+    "name": "Pokemon ROZA",
+    "cover": "https://cdn2.steamgriddb.com/thumb/9c3a1e004832dbaa7d36b6726e0cb97f.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/2f3b3f50512afcfd485bc46a399aedea.png",
+    "synopsis": "Mejor remake de pokemon ever.",
     "tags": [],
     "images": []
   }
