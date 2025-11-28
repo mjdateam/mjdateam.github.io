@@ -820,7 +820,7 @@
   },
   {
     "id": "pokemon_legend_z_a",
-    "name": "Pokemon legendarios de la A a la Z",
+    "name": "Pokemon legendas ZAP",
     "cover": "https://upload.wikimedia.org/wikipedia/en/2/2d/Pokemon_Legends_Z-A_Key_Art_Logo.png",
     "icon": "../images/starmie.jpeg",
     "synopsis": " AZ llega se monta un hoZtal y dice ZAs y entonces gana",
@@ -1021,43 +1021,43 @@
     "name": "Digimon world next order",
     "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1530160/header.jpg",
     "icon": "https://cdn2.steamgriddb.com/icon/5c54c0e87e5883b70dc2488ffad09d9d/32/256x256.png",
-    "synopsis":"LA experiencia ser padre, ahora con waifus",
+    "synopsis": "LA experiencia ser padre, ahora con waifus",
     "tags": [],
     "images": []
   },
-   {
+  {
     "id": "unravel_2",
     "name": "Unravel 2",
     "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1225570/header.jpg",
     "icon": "https://cdn2.steamgriddb.com/icon_thumb/b2e2d846bb30c25159b2eac1b55bddcb.png",
-    "synopsis":"LA causa de mi divorcio",
+    "synopsis": "LA causa de mi divorcio",
     "tags": [],
     "images": []
   },
-   {
+  {
     "id": "monster_high_good",
     "name": "Monster prom",
     "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/743450/header.jpg",
     "icon": "https://cdn2.steamgriddb.com/icon/1cd3882394520876dc88d1472aa2a93f/32/256x256.png",
-    "synopsis":"Monster high pero ligas",
+    "synopsis": "Monster high pero ligas",
     "tags": [],
     "images": []
   },
-    {
+  {
     "id": "yugi_ah",
     "name": "Yu-gi-oh Duel Links",
     "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601510/c5bbd8019f5e1a5d5e21a5264246598222a4659f/header.jpg",
     "icon": "https://cdn2.steamgriddb.com/icon/d636185169918588c20aa3583b0cf430/32/256x256.png",
-    "synopsis":"Mi rival lleva dos horas encadenando cartas y todavía no he jugado. He perdido",
+    "synopsis": "Mi rival lleva dos horas encadenando cartas y todavía no he jugado. He perdido",
     "tags": [],
     "images": []
   },
-   {
+  {
     "id": "inscription",
     "name": "Inscryption",
     "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg",
     "icon": "https://cdn2.steamgriddb.com/icon/e9d86e939586740e628945ebffd47c47/32/256x256.png",
-    "synopsis":"No confies en la comadreja",
+    "synopsis": "No confies en la comadreja",
     "tags": [],
     "images": []
   },
@@ -1066,16 +1066,16 @@
     "name": "The hex",
     "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/510420/header.jpg",
     "icon": "https://cdn2.steamgriddb.com/icon/e9d86e939586740e628945ebffd47c47/32/256x256.png",
-    "synopsis":"'A game that defies me to tell you anything about it, not that I’m convinced you’d believe me if I did.' Rock Paper Shotgun",
+    "synopsis": "'A game that defies me to tell you anything about it, not that I’m convinced you’d believe me if I did.' Rock Paper Shotgun",
     "tags": [],
     "images": []
   },
-{
+  {
     "id": "figuras",
     "name": "It's this seat taken?",
     "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3035120/header.jpg",
     "icon": "https://cdn2.steamgriddb.com/icon/e9d86e939586740e628945ebffd47c47/32/256x256.png",
-    "synopsis":"Mejor romance homosexual entre figuras geometricas de este año 6/10 demasiados catalanes",
+    "synopsis": "Mejor romance homosexual entre figuras geometricas de este año 6/10 demasiados catalanes",
     "tags": [],
     "images": []
   },
@@ -1084,7 +1084,7 @@
     "name": "Digimon World: Story cyber sleuth",
     "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1042550/header.jpg",
     "icon": "https://cdn2.steamgriddb.com/icon/ab25791372fa14a9d690f2587950fad3/32/256x256.png",
-    "synopsis":"La no experiencia de ser padre con más waifus",
+    "synopsis": "La no experiencia de ser padre con más waifus",
     "tags": [],
     "images": []
   },
@@ -1093,7 +1093,7 @@
     "name": "Pikmin",
     "cover": "https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/ZXXSH3ZYZVJ4VHZ7NBVY7HXFH4.jpg",
     "icon": "https://upload.wikimedia.org/wikipedia/en/1/13/Pikmin_cover_art.jpg",
-    "synopsis":"La guerra... la guerra nunca cambia. Pero los hombres sí, por los caminos que recorren.",
+    "synopsis": "La guerra... la guerra nunca cambia. Pero los hombres sí, por los caminos que recorren.",
     "tags": [],
     "images": []
   },
@@ -1102,7 +1102,7 @@
     "name": "Nier automata",
     "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg?t=1760991364",
     "icon": "https://cdn2.steamgriddb.com/icon/8a06615d4abacff23bb8cde6c87e911c/32/256x256.png",
-    "synopsis":"Una gótica coluna y un twink, goty automatico",
+    "synopsis": "Una gótica coluna y un twink, goty automatico",
     "tags": [],
     "images": []
   },
@@ -1155,7 +1155,7 @@
     "id": "pokemon_pocket",
     "name": "Pokemon Pocket",
     "cover": "https://culturageek.com.ar/wp-content/uploads/2024/11/a-collage-of-powerful-pokemon-tcg-pocket-card-art_11zon-e1730753914386.webp",
-    "icon": "https://play-lh.googleusercontent.com/293sJt2BYM097zkg_merisY5eLb_LFUmpiOIyQBPnMaSsiIP5VsZcKxQ6qXICPYYXvMF_1xKrWPXd49_x0XHCg=s48",
+    "icon": "https://play-lh.googleusercontent.com/293sJt2BYM097zkg_merisY5eLb_LFUmpiOIyQBPnMaSsiIP5VsZcKxQ6qXICPYYXvMF_1xKrWPXd49_x0XHCg",
     "synopsis": "The Pokemon Company quiere tu dinero :3",
     "tags": [],
     "images": []
@@ -1189,10 +1189,46 @@
   },
   {
     "id": "pokemon_roza",
-    "name": "Pokemon ROZA",
+    "name": "Pokemon Omega Ruby & Alpha Sapphire",
     "cover": "https://cdn2.steamgriddb.com/thumb/9c3a1e004832dbaa7d36b6726e0cb97f.jpg",
     "icon": "https://cdn2.steamgriddb.com/icon_thumb/2f3b3f50512afcfd485bc46a399aedea.png",
     "synopsis": "Mejor remake de pokemon ever.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pokemon_usum",
+    "name": "Pokemon Ultra Sun & Ultra Moon",
+    "cover": "https://cdn2.steamgriddb.com/thumb/151c8b5f250a7d4670074acef71628b7.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/60267bac6732c7a81ec811cc5c9c0859.png",
+    "synopsis": "El verdadero multiverso.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pokemon_sssh",
+    "name": "Pokemon Sword & Shield",
+    "cover": "https://cdn2.steamgriddb.com/thumb/29d5ade7367c5561249099f75fb2d3dc.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/ea4eb49329550caaa1d2044105223721/32/256x256.png",
+    "synopsis": "No gracias.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pokemon_sv",
+    "name": "Pokemon Scarlet & Violet",
+    "cover": "https://cdn2.steamgriddb.com/thumb/c63c526ad8268a9ffc22c6449532bf3e.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/f9e036c34e550a09edf738196fa2e49a.png",
+    "synopsis": "Mejorinni introduccinni de los pokeminnis.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "landorus_therian_dating_simulator",
+    "name": "Landorus Therian Dating Simulator",
+    "cover": "https://img.itch.zone/aW1nLzE4MDU0MzQ0LnBuZw==/original/12K3hs.png",
+    "icon": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/645_f2.png",
+    "synopsis": "Mejor historia de amor pokemon jamás contada.",
     "tags": [],
     "images": []
   }
