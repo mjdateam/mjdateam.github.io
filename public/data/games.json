@@ -607,7 +607,7 @@
     "name": "Peak",
     "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3527290/bd3771d9a3827610b2742de13d8552918008c302/header_alt_assets_2.jpg",
     "icon": "https://cdn2.steamgriddb.com/icon/55c1db3215355af45d48f701bb19527f/32/256x256.png",
-    "synopsis": " PEAK es un juego cooperativo de escalada en el que un solo error puede ser fatal. Ya sea en solitario o en grupo, la única esperanza de salir de la misteriosa isla es subiendo hasta la cima de la montaña del centro. ¿Tenéis lo que hace falta para subir al PICO? ",
+    "synopsis": " PICO ",
     "tags": [],
     "images": []
   },
@@ -1229,6 +1229,159 @@
     "cover": "https://img.itch.zone/aW1nLzE4MDU0MzQ0LnBuZw==/original/12K3hs.png",
     "icon": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/645_f2.png",
     "synopsis": "Mejor historia de amor pokemon jamás contada.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pvz2",
+    "name": "Plants vs Zombies 2",
+    "cover": "https://cdn2.steamgriddb.com/thumb/56b3b534803eb37c8e87471299431210.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/7edccc661418aeb5761dbcdc06ad490c.png",
+    "synopsis": "PopCap está muerto.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "mk8d",
+    "name": "Mario Kart 8 Deluxe",
+    "cover": "https://cdn2.steamgriddb.com/thumb/4847f11f9c6f35085f16dc13131336cd.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/3d1ea4feabe1e0e42df6e0c9e599fe93.png",
+    "synopsis": "POR ULTIMA VEZ MARIO, SE LLAMA KARTS Y LO JUEGAS CON TUS AMIGOS",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "smatrs",
+    "name": "Super Mario and the Rainbox Stars",
+    "cover": "https://cdn2.steamgriddb.com/thumb/52e75e99fdc5a9f9c53649c5812de29d.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/213b903c200ef3f2a7120dfab773a095.png",
+    "synopsis": "Mariano se fuma un porro y se va de aventuras con una estrella psicodélica",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "super_mario_party_jamboree",
+    "name": "Super Mario Party Jamboree",
+    "cover": "https://cdn2.steamgriddb.com/thumb/3d6893b06a84758b2b1941c0b1242bd5.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/295aaa31a56f5e054fcfc7b9fdd05bf2.png",
+    "synopsis": "Destructor de amistades :D",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pkmncc",
+    "name": "Pokemon Close Combat",
+    "cover": "https://cdn2.steamgriddb.com/thumb/33605e3d13fe2566bf1f055a18d1f551.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/af9be397672697e4e58cd989f724c837.png",
+    "synopsis": "Pokemon pero a puñetazos",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "farlands_tiny_harvest",
+    "name": "Farlands: Tiny Harvest",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3896460/60a0a10fe617310754a081f24c8f60dd47b18680/header.jpg?t=1763717980",
+    "icon": "https://cdn2.steamgriddb.com/icon/d2ee018dd6d6c1bb81f11b68753889b7/32/256x256.png",
+    "synopsis": "Farlands para personas que hacen multitasking",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "farlands",
+    "name": "Farlands",
+    "cover": "https://cdn2.steamgriddb.com/thumb/b98168b40adeb86ee48aba52559a7127.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/d2ee018dd6d6c1bb81f11b68753889b7/32/256x256.png",
+    "synopsis": "Copia de Stardew Valley hecha por el Mito del Ano. Está claro que es una copia por que tiene un concepto superoriginal que no existía antes de Stardew Valley: Un Pozo",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "ck3",
+    "name": "Crusader Kings 3",
+    "cover": "https://cdn2.steamgriddb.com/thumb/d7ea43f526970c0dcc1908cd9d77679e.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/ae91b05cf9c865b54cf57adf35831853.png",
+    "synopsis": "Se un buen rey y folla con tu familia entera :D",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "look_outside",
+    "name": "Look Outside",
+    "cover": "https://cdn2.steamgriddb.com/thumb/6963b5da14ddae91611e52a033c77ad2.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/68e68ebcff376c74099bd105630b9b3d.png",
+    "synopsis": "Nunca le preguntes a Paco que pasó con Manolo.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "final_sentence_demo",
+    "name": "Final Sentence Demo",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2413950/13ae84597fd379a275fba07c4d79cc2bc0298cdf/header.jpg",
+    "icon": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2413950/86933692f027760053050bfe3cdf10ab193d2d2f/ss_86933692f027760053050bfe3cdf10ab193d2d2f.1920x1080.jpg",
+    "synopsis": "Simulador de oficina informática. Si no lo haces bien, mueres.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "undertale",
+    "name": "Undertale",
+    "cover": "https://cdn2.steamgriddb.com/thumb/06f867ad5a8dd38502b33ec03d5abc47.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/3b9be7e15b46c42911f39a4a9e861022/32/512x512.png",
+    "synopsis": "Sans.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "no_mans_sky",
+    "name": "No Man's Sky",
+    "cover": "https://cdn2.steamgriddb.com/thumb/19d6e267ce09a1f04489b6ecf43f32af.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/61cb6463141119abd41762825ad4f9cd/32/256x256.png",
+    "synopsis": "No Mames Cielo",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "stardew_valley",
+    "name": "Stardew Valley",
+    "cover": "https://cdn2.steamgriddb.com/thumb/e08cfafc30c724473fb5b159480b481c.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/2119b8d43eafcf353e07d7cb5554170b/32/256x256.png",
+    "synopsis": "Juego superoriginal, no tiene ninguna mecánica ni elemento que ya existiera, ni en otros juegos ni en la vida real. Por ejemplo inventó el concepto de los Pozos, algo que la agricultura copiaría descaradamente años después.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "ambidextro",
+    "name": "Ambidextro",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3445580/ceb01c380370ebb58f1c4e59dbf3ef01678962b2/header.jpg",
+    "icon": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3445580/ceb01c380370ebb58f1c4e59dbf3ef01678962b2/header.jpg",
+    "synopsis": "Te odio alva majo",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "splitgate",
+    "name": "Splitgate",
+    "cover": "https://cdn2.steamgriddb.com/thumb/a567e98dfa03e7948e7d374fa84928d2.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/e0d5fe73dc1b879121ea9435379278b7.png",
+    "synopsis": "Vip Zombies",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "supermarket_together",
+    "name": "Supermarket Together",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2709570/header.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/d66d0d00bb7f294c9a9127f437dd3702/32/256x256.png",
+    "synopsis": "Simulador hiperrealista de un supermercado. El pan por 100€ la barra.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "game_dev_tycoon",
+    "name": "Game Dev Tycoon",
+    "cover": "https://cdn2.steamgriddb.com/thumb/5ce5f254d410b9e0d67ef28e6426f284.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/512844c25cd1c9af079ba08f868eb637/32/512x512.png",
+    "synopsis": "EA NOOOOOOO",
     "tags": [],
     "images": []
   }
