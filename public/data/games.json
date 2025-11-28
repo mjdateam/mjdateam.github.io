@@ -1132,5 +1132,32 @@
     "synopsis": "miau miau (explora el postapocaliptico mundo de tu escritorio después de la universidad al ritmo de los bongos de un gato sobreexplotado",
     "tags": [],
     "images": []
+  },
+  {
+    "id": "danganronpa",
+    "name": "Danganronpa: Trigger Happy Havoc",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413410/header.jpg?t=1697044323",
+    "icon": "https://cdn2.steamgriddb.com/icon/ced556cd9f9c0c8315cfbe0744a3baf0/32/256x256.png",
+    "synopsis": "Un grupo de estudiantes de élite atrapados en una escuela, obligados a participar en un juego mortal de asesinatos y engaños para sobrevivir.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pokemon_showdown",
+    "name": "Pokemon Showdown!",
+    "cover": "https://cdn2.steamgriddb.com/thumb/b59f62d4f82cdf25cd152c3213afbf2d.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/ea67d66c5b01e5aa93fd5407f041b53d/32/256x256.png",
+    "synopsis": "El juego que nintendo nunca pudo demandar.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pokemon_pocket",
+    "name": "Pokemon Showdown!",
+    "cover": "https://culturageek.com.ar/wp-content/uploads/2024/11/a-collage-of-powerful-pokemon-tcg-pocket-card-art_11zon-e1730753914386.webp",
+    "icon": "https://play-lh.googleusercontent.com/293sJt2BYM097zkg_merisY5eLb_LFUmpiOIyQBPnMaSsiIP5VsZcKxQ6qXICPYYXvMF_1xKrWPXd49_x0XHCg=s48",
+    "synopsis": "The Pokemon Company quiere tu dinero :3",
+    "tags": [],
+    "images": []
   }
 ]
