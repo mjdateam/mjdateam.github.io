@@ -1420,5 +1420,266 @@
     "synopsis": "Mira como gira el gordo hijo de puta",
     "tags": [],
     "images": []
+  },
+  {
+    "id": "persona_3_reloaded",
+    "name": "Persona 3 Reloaded",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/b87dbad34e20b42e70f2ff693ad9537d.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/57b3c556c09ac06cd6e1b4db8ae208e4/24/256x256.png",
+    "synopsis": "DISTURBING THE PEACE... LOOK INTO MY EYES.....",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "cult_of_the_lamb",
+    "name": "Cult Of The Lamb",
+    "cover": "https://cdn2.steamgriddb.com/thumb/85d7799aaaf0e39c2d1783a7fa17bae9.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/16443e0c6f6e4a400fd0164b3c406170.png",
+    "synopsis": "Para cuando la sex update?",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "overcooked_2",
+    "name": "Overcooked 2",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/37aa66e8794da1302fecd980928e950a.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/c7619964dbade773bc0658ed4789dbea.png",
+    "synopsis": "NO POR FAVOR",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "spiritfarer",
+    "name": "Spiritfarer",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/88759fc0e73600b1a941d8defae4d6b8.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/c7f746b7939ba6db31093d4438d9207b/32/256x256.png",
+    "synopsis": "Es un juego bastante cozy en el que tienes que guisr a las almas al más allá",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "yoshis_woolly_world",
+    "name": "Yoshi's Woolly World",
+    "cover": "https://cdn2.steamgriddb.com/thumb/4eb83b86641fedbfc294bbec15ecc7d4.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/66808e327dc79d135ba18e051673d906.png",
+    "synopsis": "La mascota del Mariano pero de lana",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "miitopia",
+    "name": "Miitopia",
+    "cover": "https://cdn2.steamgriddb.com/thumb/f580fcfcd7cbcd51fbe58b08814fb0d9.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/f2ac51f4c59265a0c022339c16119936.png",
+    "synopsis": "Haz que tus amigos peleen por ti mientras tu les dices que hacer",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "new_style_boutique_3",
+    "name": "New Style Boutique 3",
+    "cover": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_3ds_25/H2x1_3DS_NintendoPresentsNewStyleBoutique3StylingStar_esES.jpg",
+    "icon": "https://www.guiasnintendo.com/0a_NINTENDO_3DS/new_style_boutique_3/new_style_boutique_3_sp/imagenes/fotos/nsb3_celebrities_001.jpg",
+    "synopsis": "Juan puto marica, si la paca levantara cabeza...",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "animal_crossing_happy_home_designer",
+    "name": "Animal Crossing Happy Home Designer",
+    "cover": "https://cdn2.steamgriddb.com/thumb/6a9fcadba9e29bbef2d9360cc2ed9907.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/45a2317a76448dd49776a9d0495631cc.png",
+    "synopsis": "Diseña tu casita con furros",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "haikyuu",
+    "name": "Haikyuu",
+    "cover": "https://dl-hiq.garena.com/web/preregister/es/pc/mainbg.jpg",
+    "icon": "https://play-lh.googleusercontent.com/gkwNDUNhTjZVSsjwsc9z-nJVJvDcWX_1XYQ3ZOCIZvdVWw1Gpjw4WGBe3Zv4PZzWTwE",
+    "synopsis": "Gays jugando al voleibol",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "yoshis_crafted_world",
+    "name": "Yoshi's Crafted World",
+    "cover": "https://cdn2.steamgriddb.com/thumb/5c77e308e55acaee9797fa29daf74747.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/7737a2600285afe739fc99b6f0e9fd97.png",
+    "synopsis": "La mascota del Mariano pero de cartón",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pikmin_4",
+    "name": "Pikmin 4",
+    "cover": "https://cdn2.steamgriddb.com/thumb/61898ee558bb75000a688cafb518b412.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/ed1b9235c25e2d8bedab4efeccb09464.png",
+    "synopsis": "Esclaviza a una civilización alienígena para que tu puedas tocarte los huevos en paz",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "neva",
+    "name": "Neva",
+    "cover": "https://cdn2.steamgriddb.com/thumb/03fc22fb9cb427bd0d221d56404dfee4.png",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/e02de6b6dc6aaea2aacf300cd04bcad7.png",
+    "synopsis": "No se de que va el juego, supongo que nieva o algo ns.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "omori",
+    "name": "Omori",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/a5384785153cc0eb3f660794920dd543.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/e373e824714f6c6bca557598a1f61bf5.png",
+    "synopsis": "Depresión.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "osu",
+    "name": "Osu",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/5b8e4fd39d9786228649a8a8bec4e008.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/debd1a977d186f2ff5ba98a4ebabdf51/32/256x256.png",
+    "synopsis": "Huele a sudor y a fracaso social",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "little_nightmares",
+    "name": "Little Nightmares",
+    "cover": "https://cdn2.steamgriddb.com/thumb/a739516c015bf0baa70e51caa979a788.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/c4851e8e264415c4094e4e85b0baa7cc/32/256x256.png",
+    "synopsis": "Pesadillas chiquitas.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "little_nightmares_2",
+    "name": "Little Nightmares II",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/6f1110b10375fc596c6cea03fd3e1d24.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/6a08151ec9111529546d41050dbe8058/32/256x256.png",
+    "synopsis": "Pesadillas chiquitas 2, ahora es personal.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "portal",
+    "name": "Portal",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/ecd122037c0fd785861279d853231ccc.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/045117b0e0a11a242b9765e79cbf113f.png",
+    "synopsis": "Portalicos que rompen la comprensión del espacio-tiempo",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "hatsune_miku_project_mirai",
+    "name": "Hatsune Miku Project Mirai",
+    "cover": "https://cdn2.steamgriddb.com/thumb/6a484ef958184cac198447faa05af65e.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/e2ad76f2326fbc6b56a45a56c59fafdb.png",
+    "synopsis": "Popipopipopipo",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "cooking_mama_5",
+    "name": "Cooking Mama 5: Bon Appétit!",
+    "cover": "https://cdn2.steamgriddb.com/thumb/e6e368efe0ed187f00f885bc2b3295e0.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/7b86f36d139d8581d4b5a4f155ba431c.png",
+    "synopsis": "Simulador de ser mujer.",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "terraforming_mars",
+    "name": "Terraforming Mars",
+    "cover": "https://cdn2.steamgriddb.com/thumb/3ec82ab45795f3117218cb3f6db56a64.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/515e54370d38b4af21bf08cff544d25e.png",
+    "synopsis": "Partidas de 32 horas",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "wild_rift",
+    "name": "LOL: Wild Rift",
+    "cover": "https://cdn2.steamgriddb.com/thumb/532750805806361a5b202bd98f0298e2.jpg",
+    "icon": "https://cdn2.steamgriddb.com/logo_thumb/4d94a3a3e4a25d485ceeb7ccbe60f822.png",
+    "synopsis": "me niego a ponerle una descripción a este juego",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "homescapes",
+    "name": "Homescapes",
+    "cover": "https://store-images.s-microsoft.com/image/apps.11136.13777453757269044.9929087f-80c5-4a85-8641-6ed21d6e4e2f.973ed669-9f64-483d-b10c-15ac67d57c00?h=253",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/7/7e/Homescapes_icon.png",
+    "synopsis": "Por que juegas a esto Elena?",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "nonogram_color",
+    "name": "Nonogram Color",
+    "cover": "https://m.media-amazon.com/images/I/816kCVn1oML.png",
+    "icon": "https://play-lh.googleusercontent.com/AOpYWo98f_N7OHoUqCJRjBZuy-RUJB_4IaE_GnRuyLAkv_-yOlVkUa7C04OJx-qWxg",
+    "synopsis": "Otro juego de movil pocho",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "disney_solitaire",
+    "name": "Disney Solitaire",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcSV-MG0keWWNDM_jnB2Pz4YqySU012Z_nRg&s",
+    "icon": "https://play-lh.googleusercontent.com/Y7JLYkjDeoQQiRBs0OzhQKYNzEVGvE8sYWEHRbXXfI_08t8ELF6pH6LHAqkVXow2jg",
+    "synopsis": "Disney para personas solitarias",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "happy_color",
+    "name": "Happy Color",
+    "cover": "https://i.ytimg.com/vi/N1EGVYTTYfg/mqdefault.jpg",
+    "icon": "https://happycolorapp.com/assets/375/logo@2x.png",
+    "synopsis": "Colores felices supongo",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "codycross",
+    "name": "CodyCross",
+    "cover": "https://cdn.aptoide.com/imgs/0/8/8/08863628cbcda0ae940c3af70c19c7d8_fgraphic.png",
+    "icon": "https://play-lh.googleusercontent.com/1kbpNtXjB2L3F0ZVw6B9rlo2hCdDAQxmGUhMBE60Srfv7cIWTZmRKgQ-nEoO0Bu0Hzs",
+    "synopsis": "Crucigramas",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "good_coffe",
+    "name": "Good Coffe",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXOgQPzrzChI_hfxTTRfD9_yyqPNIq3vzgHA&s",
+    "icon": "https://play-lh.googleusercontent.com/0jsAA8hPwg4FEUFGIMqnBN1IryfAzvmVVV6vrr4lPnO23UFgsE1zJGqFBXyr6qSLBS0=s48",
+    "synopsis": "pone que se llama buien café, gran café. Es un nombre de mierda XD",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "my_cafe",
+    "name": "My Café",
+    "cover": "https://mycafe.games/images/opengraph.jpg",
+    "icon": "https://play-lh.googleusercontent.com/KQ1D9xBipfQo1ubArCV2N3HZSvrsBTzkCRMpJr6ThS03F0_FbQCMSSUhPlF-FxFPoA",
+    "synopsis": "Cuantos juegos de cafeterías hay?",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "hatsune_miku_colorful_stage",
+    "name": "Hatsune Miku Colorful Stage",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/6/61/Project_SEKAI_title_screen.png",
+    "icon": "https://play-lh.googleusercontent.com/H2yJn8AnkyANad7ginoURQp_HRsMTO2JLYb_4gWD4l7LMwB_2ocLn4dgzumyS0HmAA",
+    "synopsis": "Popipopipopipo pero para móviles",
+    "tags": [],
+    "images": []
   }
 ]
