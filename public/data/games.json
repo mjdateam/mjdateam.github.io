@@ -1252,7 +1252,7 @@
   },
   {
     "id": "smatrs",
-    "name": "Super Mario and the Rainbox Stars",
+    "name": "Super Mario and the Rainbow Stars",
     "cover": "https://cdn2.steamgriddb.com/thumb/52e75e99fdc5a9f9c53649c5812de29d.jpg",
     "icon": "https://cdn2.steamgriddb.com/icon_thumb/213b903c200ef3f2a7120dfab773a095.png",
     "synopsis": "Mariano se fuma un porro y se va de aventuras con una estrella psicodélica",
@@ -1345,7 +1345,7 @@
     "name": "Stardew Valley",
     "cover": "https://cdn2.steamgriddb.com/thumb/e08cfafc30c724473fb5b159480b481c.jpg",
     "icon": "https://cdn2.steamgriddb.com/icon/2119b8d43eafcf353e07d7cb5554170b/32/256x256.png",
-    "synopsis": "Juego superoriginal, no tiene ninguna mecánica ni elemento que ya existiera, ni en otros juegos ni en la vida real. Por ejemplo inventó el concepto de los Pozos, algo que la agricultura copiaría descaradamente años después.",
+    "synopsis": "Juego superoriginal, no tiene ninguna mecánica ni elemento que ya existiera, ni en otros juegos ni en la vida real. Por ejemplo inventó el concepto de los Pozos, algo que la agricultura copiaría descaradamente años antes.",
     "tags": [],
     "images": []
   },
@@ -1679,6 +1679,259 @@
     "cover": "https://upload.wikimedia.org/wikipedia/en/6/61/Project_SEKAI_title_screen.png",
     "icon": "https://play-lh.googleusercontent.com/H2yJn8AnkyANad7ginoURQp_HRsMTO2JLYb_4gWD4l7LMwB_2ocLn4dgzumyS0HmAA",
     "synopsis": "Popipopipopipo pero para móviles",
+    "tags": [],
+    "images": []
+  }
+,
+  {
+    "id": "castlevania_lords_of_shadow_ultimate",
+    "name": "Castlevania: Lords of Shadow - Ultimate Edition",
+    "cover": "https://cdn2.steamgriddb.com/thumb/f2324a6f586df773128ee09267104e8f.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/a7e757f20c3ef9c4b38091d94dc80828/32/512x512.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "castlevania_lords_of_shadow_2",
+    "name": "Castlevania: Lords of Shadow 2",
+    "cover": "https://cdn2.steamgriddb.com/thumb/eebcff4879e71fd775220054a40b1d81.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/c6b8c8d762da15fa8dbbdfb6baf9e260/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "ultrakill",
+    "name": "Ultrakill",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/5351e766da507432ba6af62865e2488b.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/5f7677792b04a3b8e8b6a8d51c85a796/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "the_last_of_us_1",
+    "name": "The Last of Us Part I",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/044c326638b59e6c638ce6abe8635a01.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/7b53630d1a6e3eb5a51d93e269694d0c.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "the_last_of_us_2",
+    "name": "The Last of Us Part II",
+    "cover": "https://cdn2.steamgriddb.com/thumb/b0ffbf9e93cb765812850318df4add4f.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/f24e4dee49697069d0bb6832628bc2e2.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "devil_may_cry_dmc",
+    "name": "Devil May Cry (DmC)",
+    "cover": "https://cdn2.steamgriddb.com/thumb/43a4d135b5225238f2adbf88dc810a6b.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/4671aeaf49c792689533b00664a5c3ef.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "devil_may_cry_hd_collection",
+    "name": "Devil May Cry HD Collection",
+    "cover": "https://cdn2.steamgriddb.com/thumb/c7df9fe46eaaebe23091013ce18b8ecd.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/e0ddc27e24c6e49ace5a5dcef6c784eb/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "devil_may_cry_4",
+    "name": "Devil May Cry 4",
+    "cover": "https://cdn2.steamgriddb.com/thumb/d6cb41a908909feead800375f0e96b04.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/93fb9d4b16aa750c7475b6d601c35c2c.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "devil_may_cry_5",
+    "name": "Devil May Cry 5",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/b92894e4589f652dc3116cb3a8c48c08.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/76cf99d3614e23eabab16fb27e944bf9.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "god_of_war",
+    "name": "God of War",
+    "cover": "https://cdn2.steamgriddb.com/thumb/375c71349b295fbe2dcdca9206f20a06.png",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/0bcc8ab4a61a1d1f3f102846d9617eb8.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "god_of_war_ragnarok",
+    "name": "God of War Ragnarök",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/6c73e29b5c799f2bd212a97678a3a197.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/f4666b1c34893ee557dccbfe3382e965/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "tabletop_simulator",
+    "name": "Tabletop Simulator",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/abf138e32145ddccc6f7db983a913b9f.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/68230fb510baa246a67bf901c7f895ea/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "persona_5_x",
+    "name": "Persona 5: The Phantom X",
+    "cover": "https://cdn2.steamgriddb.com/thumb/b02ca4eb2cdc1374f997efa5a8e5a7a0.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/79266656b533673201cb6aa215529e8d/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "resident_evil_2",
+    "name": "Resident Evil 2",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/87ec2f451208df97228105657edb717f.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/cb8750613b57d53ea7abfbbdf742976c/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "crash_bandicoot_4",
+    "name": "Crash Bandicoot 4: It's About Time ",
+    "cover": "https://cdn2.steamgriddb.com/thumb/1c9014141dddcf3142cf61864d51c0a0.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/1d49780520898fe37f0cd6b41c5311bf/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "resident_evil_4",
+    "name": "Resident Evil 4",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/5ccb9d0e9173e00230298318ed6ae164.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/3416177568760e62da708674fc185ae5/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "metal_gear_solid_delta",
+    "name": "Metal Gear Solid Delta",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/5fd286ef971606f7e6b05ab1f9e3b410.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/db24b263eea4a88462e36e5785715584.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "metal_gear_solid_v_the_phantom_pain",
+    "name": "Metal Gear Solid V: The Phantom Pain",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/f73ff6b435051f83259a5f7b2f542e4b.png",
+    "icon": "https://cdn2.steamgriddb.com/icon/f7cade80b7cc92b991cf4d2806d6bd78/24/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "borderlands_4",
+    "name": "Borderlands 4",
+    "cover": "https://cdn2.steamgriddb.com/thumb/a471a1d4268cf47eebddb09e908796e3.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/754ee3504e8dbfe106cc6ec4583d7968.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "resident_evil_7",
+    "name": "Resident Evil 7",
+    "cover": "https://cdn2.steamgriddb.com/thumb/6c48729ba7bf0610a1471eb867b1e781.png",
+    "icon": "https://cdn2.steamgriddb.com/icon/d0d7861372c4b545496c2a2b5c4a62e3/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "dead_cells",
+    "name": "Dead Cells",
+    "cover": "https://cdn2.steamgriddb.com/thumb/b83bf23e261eec73ec0b35f9afb11744.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/bca5d4853459a833d9516771f8a96a98.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "wolfenstein_the_new_order",
+    "name": "Wolfenstein: The New Order",
+    "cover": "https://cdn2.steamgriddb.com/thumb/5ed12b5a84c942c9f19041c2e163679b.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/0a93091da5efb0d9d5649e7f6b2ad9d7/8/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "wolfenstein_the_old_blood",
+    "name": "Wolfenstein: The Old Blood",
+    "cover": "https://cdn2.steamgriddb.com/thumb/3ea208da4ace14c5b51fd7077d8d5b54.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/b24af91821247450bdf7c519e8d05094.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "dead_by_daylight",
+    "name": "Dead by Daylight",
+    "cover": "https://cdn2.steamgriddb.com/thumb/57ccada8125b3067b0f60d20641bcb66.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/86b3e165b8154656a71ffe8a327ded7d/32/1024x1024.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "warframe",
+    "name": "Warframe",
+    "cover": "https://cdn2.steamgriddb.com/thumb/a94a424e73f7a005861108c42125a64e.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/8b0405edf336c9392e47bc44c74441fe.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "wolfenstein_2_the_new_colossus",
+    "name": "Wolfenstein II: The New Colossus",
+    "cover": "https://cdn2.steamgriddb.com/thumb/cc2d963c43ca4c2f61cccc954214ccc6.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/d7f05f8571552250c8a5c3e9ce63f1c8.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "apex_legends",
+    "name": "Apex Legends",
+    "cover": "https://cdn2.steamgriddb.com/thumb/60b4471e1fb1e8e0d266d97071669ccb.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/5c76b1cc75d7fb39b6887a5cc0b836d5.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "team_fortress_2",
+    "name": "Team Fortress 2",
+    "cover": "https://cdn2.steamgriddb.com/thumb/027fdc4104875b77b3514ab67e4a69cd.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/e9cde247132ad24f2a476a6d7a9dbd16.png",
+    "synopsis": "",
     "tags": [],
     "images": []
   }
