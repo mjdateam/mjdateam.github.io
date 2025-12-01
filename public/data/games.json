@@ -373,7 +373,7 @@
     "name": "Void Stranger",
     "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2121980/header.jpg",
     "icon": "https://cdn2.steamgriddb.com/icon_thumb/2118fa0c24a3bee8842cc54a73775d9a.png",
-    "synopsis": " Eres una tia con testas y muchas tetas y grandes tetas con super tetas ",
+    "synopsis": " Eres una tia con tetas y muchas tetas y grandes tetas con super tetas ",
     "tags": [],
     "images": []
   },
@@ -1147,7 +1147,7 @@
     "name": "Pokemon Showdown!",
     "cover": "https://cdn2.steamgriddb.com/thumb/b59f62d4f82cdf25cd152c3213afbf2d.jpg",
     "icon": "https://cdn2.steamgriddb.com/icon/ea67d66c5b01e5aa93fd5407f041b53d/32/256x256.png",
-    "synopsis": "El juego que nintendo nunca pudo demandar.",
+    "synopsis": "14 en beta.",
     "tags": [],
     "images": []
   },
@@ -1480,7 +1480,7 @@
     "name": "New Style Boutique 3",
     "cover": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_3ds_25/H2x1_3DS_NintendoPresentsNewStyleBoutique3StylingStar_esES.jpg",
     "icon": "https://www.guiasnintendo.com/0a_NINTENDO_3DS/new_style_boutique_3/new_style_boutique_3_sp/imagenes/fotos/nsb3_celebrities_001.jpg",
-    "synopsis": "Juan puto marica, si la paca levantara cabeza...",
+    "synopsis": "Edu puto marica, si la paca levantara cabeza...",
     "tags": [],
     "images": []
   },
@@ -1570,7 +1570,7 @@
     "name": "Portal",
     "cover": "https://cdn2.steamgriddb.com/hero_thumb/ecd122037c0fd785861279d853231ccc.jpg",
     "icon": "https://cdn2.steamgriddb.com/icon_thumb/045117b0e0a11a242b9765e79cbf113f.png",
-    "synopsis": "Portalicos que rompen la comprensión del espacio-tiempo",
+    "synopsis": "THE CAKE IS A LIE",
     "tags": [],
     "images": []
   },
@@ -1931,6 +1931,385 @@
     "name": "Team Fortress 2",
     "cover": "https://cdn2.steamgriddb.com/thumb/027fdc4104875b77b3514ab67e4a69cd.jpg",
     "icon": "https://cdn2.steamgriddb.com/icon_thumb/e9cde247132ad24f2a476a6d7a9dbd16.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "guess_who_sp",
+    "name": "Guess Who Special Edition",
+    "cover": "https://images.steamusercontent.com/ugc/10479282470252384476/9FFC1B76668E55B29F7B13693567AFC70F343901/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+    "icon": "https://images.steamusercontent.com/ugc/10479282470252384476/9FFC1B76668E55B29F7B13693567AFC70F343901/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+    "synopsis": "El quien es quien de toda la vida.",
+    "tags": [],
+    "images": []
+  }
+,
+  {
+    "id": "empyrion_galactic_survival",
+    "name": "Empyrion Galactic Survival",
+    "cover": "https://cdn2.steamgriddb.com/thumb/10aa0653523b928ee52e5e349726ac2f.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/157792e4abb490f99dbd738483e0d2d4/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "divinity_original_sin",
+    "name": "Divinity: Original Sin",
+    "cover": "https://cdn2.steamgriddb.com/thumb/3baa271bc35fe054c86928f7016e8ae6.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/7eabe3a1649ffa2b3ff8c02ebfd5659f.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "code_vein",
+    "name": "Code Vein",
+    "cover": "https://cdn2.steamgriddb.com/thumb/e9ab8dbdf60d687b10a4d866be2f7b74.png",
+    "icon": "https://cdn2.steamgriddb.com/icon/70082ac261d74f5a55812335ad13f2b3/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "monster_hunter_wilds",
+    "name": "Monster Hunter Wilds Demo",
+    "cover": "https://cdn2.steamgriddb.com/thumb/8b0e1b159871e36bdfdc784886c07463.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/7bbc9c659df818a7dfe58a4bc89f6442/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "graples_galore",
+    "name": "Graples Galore",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2239140/header.jpg?t=1739020779",
+    "icon": "https://static-cdn.jtvnw.net/ttv-boxart/1456205436_IGDB-272x380.jpg",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "black_desert",
+    "name": "Black Desert",
+    "cover": "https://cdn2.steamgriddb.com/thumb/e8953ac58b3f5e170d238532d9fb3216.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/1c67df9e0a5cfefa030b853983324004/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "cyberpunk_2077",
+    "name": "Cyberpunk 2077",
+    "cover": "https://cdn2.steamgriddb.com/thumb/c3a2e37b74855325c31c533419161972.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/1278b41f5b262887604379b0694889b2/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "fallout_3",
+    "name": "Fallout 3",
+    "cover": "https://cdn2.steamgriddb.com/thumb/31f43af563e2dbc3370d34225f1f766c.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/33c41849eeb21c9f430ae392aa25b1b0/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "enshrouded",
+    "name": "Enshrouded",
+    "cover": "https://cdn2.steamgriddb.com/thumb/038e2aef10e01d09765a5b32afd967a0.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/402e65e9139470919d9868d415977240/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "dead_island",
+    "name": "Dead Island",
+    "cover": "https://cdn2.steamgriddb.com/thumb/251bdb10bb8a27822438c3b52997420f.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/f4ed67f25c69955bae7553ad4cd2ff0d.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "half_life",
+    "name": "Half-Life",
+    "cover": "https://cdn2.steamgriddb.com/thumb/771a920034826064643a2d215e7ae6e1.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/7f6ffaa6bb0b408017b62254211691b5/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "fallout_76",
+    "name": "Fallout 76",
+    "cover": "https://cdn2.steamgriddb.com/thumb/f3c58f9bf5e81835263fdeddff9a684c.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/b7196f5fd0fce35ccadc7001fd067588/32/1024x1024.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "dark_souls_3",
+    "name": "Dark Souls III",
+    "cover": "https://cdn2.steamgriddb.com/thumb/d9154184a82a8b619b8518d0f7679822.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/4f11b55f57612f06fe9638b99f6c66e6/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "tower_of_fantasy",
+    "name": "Tower Of Fantasy",
+    "cover": "https://cdn2.steamgriddb.com/thumb/fcd593dd5004ac5144cac5082013c721.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/a6334341d81fb047fb5dedb10148891a/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "oblivion_remastered",
+    "name": "Oblivion Remastered",
+    "cover": "https://cdn2.steamgriddb.com/thumb/643c7f40c3a235327cca6ce4f58a5887.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/599131ef8d092b1b8ffc3893b13a2064/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "far_cry_3_blood_dragon",
+    "name": "Far Cry 3: Blood Dragon",
+    "cover": "https://cdn2.steamgriddb.com/thumb/0c12df263c91a4175855a1d0843b9a68.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/c1adf798f5416e70f35661541e02efb6.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "starling",
+    "name": "Starling",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3412850/header.jpg?t=1738013198",
+    "icon": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3412850/header.jpg?t=1738013198",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "elite_dangerous",
+    "name": "Elite Dangerous",
+    "cover": "https://cdn2.steamgriddb.com/thumb/f5c2d8f96520f56f4211ba74589f4dba.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/981ec2327e01401e552164ed7314d4b0/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "tribe_nine",
+    "name": "Tribe Nine",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/d26f841cd34fce6b673bd4e0f3fed487.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/a9e621b99fc870b84c8b0834ddd2e8ca.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "god_eater",
+    "name": "God Eater",
+    "cover": "https://cdn2.steamgriddb.com/thumb/e6d1d7a5dd04809372ec8a97c4f4d136.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/e56d8be5419ac39c0558cd43950e4a72/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "once_human",
+    "name": "Once Human",
+    "cover": "https://cdn2.steamgriddb.com/thumb/f32b27a1acde63834aa4135e16035f83.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/61aed3c9c3852854775b4986615901e0/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "subnautica",
+    "name": "Subnautica",
+    "cover": "https://cdn2.steamgriddb.com/thumb/aa85063fd4226696b28e7bfbb513109a.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/969ebecd17b888ab767fff8d3d894c2d.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "skate",
+    "name": "Skate",
+    "cover": "https://cdn2.steamgriddb.com/thumb/424deccd27782ad35ea941ab2a0c04bc.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/7db6ca85a15f53f8c59fa4c56905020e.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "dying_light",
+    "name": "Dying Light",
+    "cover": "https://cdn2.steamgriddb.com/thumb/0fc4aab86f4652d6274685a13998c62b.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/bb7e53ad8914adfe7cee9bf39bff7308.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "blue_protocol",
+    "name": "Blue Protocol",
+    "cover": "https://cdn2.steamgriddb.com/hero_thumb/83edaab03ae9f17d62010322e2159d04.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/2e12fe5bc3f8c2719adf7e96acdd5bc5.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "persona_4_golden",
+    "name": "Persona 4 Golden",
+    "cover": "https://cdn2.steamgriddb.com/thumb/907795a0601d8c88297d9f4e6afe16b3.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/261f67921edd024375a9a83e9ddf6a47.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "fallout_4",
+    "name": "Fallout 4",
+    "cover": "https://cdn2.steamgriddb.com/thumb/837723c0c725813343482681d8d3582d.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/73640de25b7d656733ce2f808a330f18/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "universe_sandbox",
+    "name": "Universe Sandbox",
+    "cover": "https://cdn2.steamgriddb.com/thumb/f07e9bec9297709757cd46e9786fd695.jpg",
+    "icon": "https://cdn2.steamgriddb.com/hero_thumb/895a699ee499c9e2141d030d61c32ad1.jpg",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "slime_rancher",
+    "name": "Slime Rancher",
+    "cover": "https://cdn2.steamgriddb.com/thumb/087ddf0bd241b7aa86d36253f6430615.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/09fb05dd477d4ae6479985ca56c5a12d/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "where_winds_meet",
+    "name": "Where Winds Meet",
+    "cover": "https://cdn2.steamgriddb.com/thumb/29479cfa4512ea2122fffa8a03054088.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/3bd17a4f82ebe6964c6c85923f509b4c/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "skyrim",
+    "name": "Skyrim",
+    "cover": "https://cdn2.steamgriddb.com/thumb/18bf17796c263a836621aac874a19ded.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/115679d0a013d1e98730c72c91dd0123.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "enderal_forgotten_stories",
+    "name": "Enderal: Forgotten Stories",
+    "cover": "https://cdn2.steamgriddb.com/thumb/697e8802a76844ae5a6890bb58ec8139.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/32b586f1cd4f9b692394beb92839893f.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "ghostwire_tokyo",
+    "name": "Ghostwire: Tokyo",
+    "cover": "https://cdn2.steamgriddb.com/thumb/a872ffae4b53e9c5f681f53f95579926.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/727cefd03bd8c4affe67217780b368f1/32/512x512.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "bioshock_remastered",
+    "name": "BioShock Remastered",
+    "cover": "https://cdn2.steamgriddb.com/thumb/a1861bf67a1fed2a4a6e0fa654993aaa.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/dd4e2c1d8782aaecc1ca31b373b3faa8/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "zelda_tears_of_the_kingdom",
+    "name": "Zelda: Tears of the Kingdom",
+    "cover": "https://cdn2.steamgriddb.com/thumb/409d51434ad8f430ae641b16b02bd07d.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/837d6a3ee6a6c58116a5ecbbe9d21476.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "mario_wonder",
+    "name": "Super Mario Bros. Wonder",
+    "cover": "https://cdn2.steamgriddb.com/thumb/6b67f16993ab21391d32f5d5f662e060.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/20b7a02ba34a9e26c207f81c4422cf7e.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "pokemon_arceus",
+    "name": "Pokemon Legends: Arceus",
+    "cover": "https://cdn2.steamgriddb.com/thumb/11f7497e0736cbb1c2731ba5e1a22e0d.png",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/6b36917c087c21e48531ea1309ac0147.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "rayman_legends",
+    "name": "Rayman Legends",
+    "cover": "https://cdn2.steamgriddb.com/thumb/893f9e4b43ffd4aa0bd8f0de7c007bd2.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/dc5c768b5dc76a084531934b34601977/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "battlefront_2",
+    "name": "Battlefront 2",
+    "cover": "https://cdn2.steamgriddb.com/thumb/6b3413b6655311d43a1e5f86fc63c539.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/72e0ac3a885b78926065a979b6a46206/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "subnautica_below_zero",
+    "name": "Subnautica: Below Zero",
+    "cover": "https://cdn2.steamgriddb.com/thumb/cfe2a5c74c89ec8dd226a5aa24048563.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/ae3539867aaeec609a4260c6feb725f4/32/256x256.png",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "fall_guys",
+    "name": "Fall Guys",
+    "cover": "https://cdn2.steamgriddb.com/thumb/fb06ba2ed7f259ffebf3d39df957ff66.jpg",
+    "icon": "https://cdn2.steamgriddb.com/icon/8d50714c15f54a67ba43bb64b520e41d/32/256x256.png",
     "synopsis": "",
     "tags": [],
     "images": []
