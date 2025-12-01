@@ -2313,5 +2313,41 @@
     "synopsis": "",
     "tags": [],
     "images": []
+  },
+  {
+    "id": "yo_kai_watch",
+    "name": "Yo-Kai Watch",
+    "cover": "",
+    "icon": "",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "mario_kart_world",
+    "name": "Mario Kart World",
+    "cover": "",
+    "icon": "",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "zelda_breath_of_the_wild",
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "cover": "",
+    "icon": "",
+    "synopsis": "",
+    "tags": [],
+    "images": []
+  },
+  {
+    "id": "zelda_wind_waker",
+    "name": "The Legend of Zelda: The Wind Waker",
+    "cover": "",
+    "icon": "",
+    "synopsis": "",
+    "tags": [],
+    "images": []
   }
 ]
